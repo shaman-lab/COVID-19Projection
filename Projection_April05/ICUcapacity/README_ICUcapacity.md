@@ -17,9 +17,11 @@ high: high surge capacity
 
 nointerv: no intervention
 
-75contact: a 25% reduction in contact
+80contact: a 20% weekly reduction in contact
 
-50contact: a 50% reduction in contact
+70contact: a 30% weekly reduction in contact
+
+60contact: a 40% weekly reduction in contact
 
 Note, the NY metropolitan area includes 11 counties: Kings County NY, Queens County NY, New York County NY, Bronx County NY,
 Richmond County NY, Westchester County NY, Bergen County NJ, Hudson County NJ, Passaic County, NJ, Putnam County NY, Rockland County NY
