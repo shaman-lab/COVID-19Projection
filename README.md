@@ -8,7 +8,7 @@ County-level case data are compiled from USAFACTS. https://usafacts.org/visualiz
 
 Projections were generated for daily new confirmed case, daily new infection (both reported and unreported), cumulative demand of hospital beds, ICU and ventilators as well as daily mortality (2.5, 25, 50, 75 and 97.5 percentiles). The 4 scenarios show the effects of 0%, 20%, 30% and 40% weekly reductions of contact in counties with reported weekly case >=10.
 
-Hypothetical control scenarios: Starting from 14 days prior to the projection day, a 0%, 20%, 30% and 40% WEEKLY reductions of contact in counties with reported weekly case >=10 are implemented, until reported weekly case in those counties decreases.
+Hypothetical control scenarios: Beginning 14 days prior to the projection day, a 0%, 20%, 30% or 40% WEEKLY reduction of contact in counties with reported weekly case >=10 is implemented, until reported weekly cases in those counties decreases.
 
 Projections for daily new confirmed case and daily new infection are reported in Projection_nointerv.csv, Projection_80contact.csv,  Projection_70contact.csv and Projection_60contact.csv
 
