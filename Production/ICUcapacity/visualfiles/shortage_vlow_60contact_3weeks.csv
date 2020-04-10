@@ -1,4 +1,4 @@
-Fips_code,Whether Overwhelmed Within 3 weeks
+Fips_code,Whether Overwhelmed Within 6 weeks
 01001,0
 01003,0
 01005,0
@@ -24,7 +24,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 01045,0
 01047,0
 01049,0
-01051,1
+01051,0
 01053,0
 01055,0
 01057,0
@@ -219,7 +219,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 06063,0
 06065,0
 06067,0
-06069,1
+06069,0
 06071,0
 06073,0
 06075,0
@@ -228,7 +228,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 06081,0
 06083,0
 06085,0
-06087,1
+06087,0
 06089,0
 06091,0
 06093,0
@@ -266,7 +266,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 08039,0
 08041,0
 08043,0
-08045,1
+08045,0
 08047,0
 08049,0
 08051,1
@@ -276,7 +276,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 08059,0
 08061,0
 08063,0
-08065,1
+08065,0
 08067,0
 08069,0
 08071,0
@@ -309,7 +309,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 08125,0
 09001,0
 09003,0
-09005,1
+09005,0
 09007,0
 09009,0
 09011,0
@@ -330,7 +330,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 12017,0
 12019,0
 12021,0
-12023,1
+12023,0
 12027,1
 12029,0
 12031,0
@@ -363,7 +363,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 12085,0
 12086,0
 12087,0
-12089,1
+12089,0
 12091,0
 12093,0
 12095,0
@@ -378,7 +378,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 12113,0
 12115,0
 12117,0
-12119,1
+12119,0
 12121,0
 12123,0
 12125,0
@@ -409,7 +409,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 13043,0
 13045,0
 13047,0
-13049,1
+13049,0
 13051,0
 13053,0
 13055,0
@@ -421,7 +421,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 13067,0
 13069,0
 13071,0
-13073,1
+13073,0
 13075,0
 13077,0
 13079,0
@@ -449,7 +449,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 13123,0
 13125,0
 13127,0
-13129,0
+13129,1
 13131,0
 13133,0
 13135,0
@@ -696,7 +696,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 17199,0
 17201,0
 17203,0
-18001,1
+18001,0
 18003,0
 18005,0
 18007,0
@@ -736,7 +736,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 18075,0
 18077,0
 18079,0
-18081,1
+18081,0
 18083,0
 18085,0
 18087,0
@@ -752,7 +752,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 18107,0
 18109,0
 18111,0
-18113,1
+18113,0
 18115,0
 18117,0
 18119,0
@@ -1000,7 +1000,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 21011,0
 21013,0
 21015,0
-21017,1
+21017,0
 21019,0
 21021,0
 21023,0
@@ -1078,7 +1078,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 21167,0
 21169,0
 21171,0
-21173,1
+21173,0
 21175,0
 21177,0
 21179,0
@@ -1112,7 +1112,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 21235,0
 21237,0
 21239,0
-22001,1
+22001,0
 22003,0
 22005,0
 22007,0
@@ -1147,7 +1147,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 22065,0
 22067,0
 22069,0
-22071,1
+22071,0
 22073,0
 22075,0
 22077,0
@@ -1319,7 +1319,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 27007,0
 27009,1
 27011,0
-27013,1
+27013,0
 27015,0
 27017,0
 27019,0
@@ -1364,7 +1364,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 27097,0
 27099,0
 27101,0
-27103,1
+27103,0
 27105,0
 27107,0
 27109,0
@@ -1383,7 +1383,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 27135,0
 27137,0
 27139,0
-27141,0
+27141,1
 27143,0
 27145,0
 27147,0
@@ -1414,7 +1414,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 28023,0
 28025,0
 28027,0
-28029,0
+28029,1
 28031,0
 28033,0
 28035,0
@@ -1441,7 +1441,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 28077,0
 28079,0
 28081,0
-28083,1
+28083,0
 28085,0
 28087,0
 28089,0
@@ -1454,7 +1454,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 28103,0
 28105,0
 28107,0
-28109,1
+28109,0
 28111,0
 28113,0
 28115,0
@@ -1523,7 +1523,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 29077,0
 29079,0
 29081,0
-29083,1
+29083,0
 29085,0
 29087,0
 29089,0
@@ -1600,7 +1600,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 30001,0
 30003,0
 30005,0
-30007,1
+30007,0
 30009,0
 30011,0
 30013,0
@@ -1643,7 +1643,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 30087,0
 30089,0
 30091,0
-30093,1
+30093,0
 30095,0
 30097,0
 30099,0
@@ -1729,7 +1729,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 31147,0
 31149,0
 31151,0
-31153,1
+31153,0
 31155,0
 31157,0
 31159,0
@@ -1772,9 +1772,9 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 33013,0
 33015,0
 33017,0
-33019,1
+33019,0
 34001,0
-34003,1
+34003,0
 34005,0
 34007,0
 34009,0
@@ -1790,9 +1790,9 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 34029,0
 34031,0
 34033,0
-34035,1
-34037,1
-34039,1
+34035,0
+34037,0
+34039,0
 34041,0
 35001,0
 35003,0
@@ -1820,7 +1820,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 35043,0
 35045,0
 35047,0
-35049,1
+35049,0
 35051,0
 35053,1
 35055,0
@@ -1839,7 +1839,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 36019,0
 36021,0
 36023,0
-36025,1
+36025,0
 36027,0
 36029,0
 36031,0
@@ -1848,7 +1848,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 36037,0
 36039,0
 36041,0
-36043,1
+36043,0
 36045,0
 36047,0
 36049,0
@@ -1866,10 +1866,10 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 36073,0
 36075,0
 36077,0
-36079,1
+36079,0
 36081,1
 36083,0
-36085,1
+36085,0
 36087,0
 36089,0
 36091,0
@@ -1878,7 +1878,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 36097,0
 36099,0
 36101,0
-36103,1
+36103,0
 36105,0
 36107,0
 36109,0
@@ -1886,7 +1886,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 36113,0
 36115,0
 36117,0
-36119,1
+36119,0
 36121,0
 36123,0
 37001,0
@@ -1907,7 +1907,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 37031,0
 37033,0
 37035,0
-37037,1
+37037,0
 37039,0
 37041,0
 37043,0
@@ -2039,7 +2039,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 38095,0
 38097,0
 38099,0
-38101,1
+38101,0
 38103,0
 38105,0
 39001,0
@@ -2048,7 +2048,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 39007,0
 39009,0
 39011,0
-39013,1
+39013,0
 39015,0
 39017,0
 39019,0
@@ -2221,10 +2221,10 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 41023,0
 41025,0
 41027,0
-41029,1
+41029,0
 41031,0
 41033,0
-41035,1
+41035,0
 41037,0
 41039,0
 41041,0
@@ -2364,7 +2364,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 46003,0
 46005,0
 46007,0
-46009,1
+46009,0
 46011,0
 46013,0
 46015,0
@@ -2377,7 +2377,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 46029,0
 46031,0
 46033,0
-46035,1
+46035,0
 46037,0
 46039,0
 46041,0
@@ -2403,7 +2403,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 46081,0
 46083,0
 46085,0
-46087,1
+46087,0
 46089,0
 46091,0
 46093,0
@@ -2412,7 +2412,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 46099,0
 46101,0
 46102,0
-46103,1
+46103,0
 46105,0
 46107,0
 46109,0
@@ -2806,7 +2806,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 49055,0
 49057,0
 50001,0
-50003,0
+50003,1
 50005,0
 50007,0
 50009,0
@@ -2870,7 +2870,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 51099,0
 51101,0
 51103,0
-51105,1
+51105,0
 51107,0
 51109,0
 51111,0
@@ -2964,12 +2964,12 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 53019,0
 53021,0
 53023,0
-53025,1
+53025,0
 53027,1
 53029,1
 53031,1
-53033,1
-53035,1
+53033,0
+53035,0
 53037,1
 53039,0
 53041,0
@@ -2980,7 +2980,7 @@ Fips_code,Whether Overwhelmed Within 3 weeks
 53051,0
 53053,0
 53055,0
-53057,1
+53057,0
 53059,0
 53061,1
 53063,0

@@ -1,12 +1,12 @@
 county,id,day_to_overload
-Kings County NY,36047,10
+Kings County NY,36047,15
 Queens County NY,36081,0
-New York County NY,36061,16
-Bronx County NY,36005,17
-Richmond County NY,36085,7
-Westchester County NY,36119,15
-Bergen County NJ,34003,10
-Hudson County NJ,34017,7
-Passaic County NJ,34031,11
-Putnam County NY,36079,15
-Rockland County NY,36087,5
+New York County NY,36061,20
+Bronx County NY,36005,21
+Richmond County NY,36085,13
+Westchester County NY,36119,18
+Bergen County NJ,34003,17
+Hudson County NJ,34017,11
+Passaic County NJ,34031,14
+Putnam County NY,36079,18
+Rockland County NY,36087,11
