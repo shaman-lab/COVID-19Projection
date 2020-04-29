@@ -1,12 +1,12 @@
 # Projection of the COVID-19 outbreak in US
 
-We calibrated a county-level metapopulation model to incidence data reported during Feb 21 2020 to Mar 13 2020 in continental US, and used the calibrated model to project the course of COVID-19 outbreaks in the US. We also simulated the effects of hypothetical social distancing and travel restrictions. The model description and methods are summerized in the technical report (PDF).
+We calibrated a county-level metapopulation model to incidence data reported during Feb 21 2020 to Mar 13 2020 in continental US, and used the calibrated model to project the course of COVID-19 outbreaks in the US. We also simulated the effects of hypothetical social distancing and travel restrictions. The model description and methods are summarized in the technical report (PDF).
 
 # Projection output
 
 Projection_nointervention.csv, Projection_75%transmissibility.csv, Projection_50%transmissibility.csv, and Projection_5%mobility.csv report projections of county-level daily confirmed cases and total infections (median, IQR and 95% CI) within 180 days of Feb 21 2020 for four scenarios: 1) no intervention, 2) a 25% reduction of contact rate, 3) a 50% reduction of contact rate, and 4) a 95% reduction of cross-county mobility. Results were obtained by running 100 simulations of each scenario.
 
-Here, daily confrimed cases are confirmed infections reported by surveillance system. There is a delay between getting infected and reported. Total infections are the number of people transitioning from exposed to documented/undocumented infected. Only part of total infections will be reported in the surveillance system.
+Here, daily confirmed cases are confirmed infections reported by surveillance system. There is a delay between getting infected and reported. Total infections are the number of people transitioning from exposed to documented/undocumented infected. Only part of total infections will be reported in the surveillance system.
 
 Parameters were estimated by fitting the metapopulation model to county-level incidence data from Feb 21 2020 to Mar 13 2020, provided by the New York Times. Parameters could change over time after Mar 13 2020 due to shifting control measures. In addition, we assume a uniform set of parameters for all US counties, which does not reflect the heterogeneity of contact patterns in space. We also did not consider the possible seasonality of SARS-CoV-2.
 
