@@ -343,7 +343,7 @@ Glades County FL,12043,NA
 Gulf County FL,12045,NA
 Hamilton County FL,12047,4
 Hardee County FL,12049,NA
-Hendry County FL,12051,29
+Hendry County FL,12051,30
 Hernando County FL,12053,NA
 Highlands County FL,12055,NA
 Hillsborough County FL,12057,NA
@@ -378,7 +378,7 @@ St. Lucie County FL,12111,NA
 Santa Rosa County FL,12113,NA
 Sarasota County FL,12115,NA
 Seminole County FL,12117,NA
-Sumter County FL,12119,NA
+Sumter County FL,12119,0
 Suwannee County FL,12121,NA
 Taylor County FL,12123,NA
 Union County FL,12125,NA
@@ -786,7 +786,7 @@ Warrick County IN,18173,NA
 Washington County IN,18175,NA
 Wayne County IN,18177,NA
 Wells County IN,18179,NA
-White County IN,18181,17
+White County IN,18181,18
 Whitley County IN,18183,NA
 Adair County IA,19001,NA
 Adams County IA,19003,NA
@@ -1080,7 +1080,7 @@ Metcalfe County KY,21169,NA
 Monroe County KY,21171,NA
 Montgomery County KY,21173,NA
 Morgan County KY,21175,NA
-Muhlenberg County KY,21177,2
+Muhlenberg County KY,21177,0
 Nelson County KY,21179,NA
 Nicholas County KY,21181,NA
 Ohio County KY,21183,NA
@@ -1130,7 +1130,7 @@ Concordia Parish LA,22029,NA
 De Soto Parish LA,22031,NA
 East Baton Rouge Parish LA,22033,NA
 East Carroll Parish LA,22035,NA
-East Feliciana Parish LA,22037,12
+East Feliciana Parish LA,22037,20
 Evangeline Parish LA,22039,NA
 Franklin Parish LA,22041,NA
 Grant Parish LA,22043,NA
@@ -1890,7 +1890,7 @@ Westchester County NY,36119,NA
 Wyoming County NY,36121,NA
 Yates County NY,36123,NA
 Alamance County NC,37001,NA
-Alexander County NC,37003,39
+Alexander County NC,37003,40
 Alleghany County NC,37005,NA
 Anson County NC,37007,NA
 Ashe County NC,37009,NA
@@ -1935,7 +1935,7 @@ Harnett County NC,37085,NA
 Haywood County NC,37087,NA
 Henderson County NC,37089,NA
 Hertford County NC,37091,NA
-Hoke County NC,37093,16
+Hoke County NC,37093,15
 Hyde County NC,37095,NA
 Iredell County NC,37097,NA
 Jackson County NC,37099,NA
@@ -2097,7 +2097,7 @@ Medina County OH,39103,NA
 Meigs County OH,39105,NA
 Mercer County OH,39107,NA
 Miami County OH,39109,NA
-Monroe County OH,39111,14
+Monroe County OH,39111,NA
 Montgomery County OH,39113,NA
 Morgan County OH,39115,NA
 Morrow County OH,39117,NA
@@ -2334,7 +2334,7 @@ Darlington County SC,45031,NA
 Dillon County SC,45033,NA
 Dorchester County SC,45035,NA
 Edgefield County SC,45037,NA
-Fairfield County SC,45039,9
+Fairfield County SC,45039,10
 Florence County SC,45041,NA
 Georgetown County SC,45043,NA
 Greenville County SC,45045,NA
@@ -2355,7 +2355,7 @@ Oconee County SC,45073,NA
 Orangeburg County SC,45075,NA
 Pickens County SC,45077,NA
 Richland County SC,45079,NA
-Saluda County SC,45081,16
+Saluda County SC,45081,NA
 Spartanburg County SC,45083,NA
 Sumter County SC,45085,NA
 Union County SC,45087,NA
@@ -2461,7 +2461,7 @@ Grundy County TN,47061,NA
 Hamblen County TN,47063,NA
 Hamilton County TN,47065,NA
 Hancock County TN,47067,NA
-Hardeman County TN,47069,7
+Hardeman County TN,47069,8
 Hardin County TN,47071,NA
 Hawkins County TN,47073,NA
 Haywood County TN,47075,NA
@@ -2634,7 +2634,7 @@ Hill County TX,48217,NA
 Hockley County TX,48219,NA
 Hood County TX,48221,NA
 Hopkins County TX,48223,NA
-Houston County TX,48225,10
+Houston County TX,48225,9
 Howard County TX,48227,NA
 Hudspeth County TX,48229,NA
 Hunt County TX,48231,NA
@@ -2726,7 +2726,7 @@ Rusk County TX,48401,NA
 Sabine County TX,48403,NA
 San Augustine County TX,48405,NA
 San Jacinto County TX,48407,NA
-San Patricio County TX,48409,42
+San Patricio County TX,48409,NA
 San Saba County TX,48411,NA
 Schleicher County TX,48413,NA
 Scurry County TX,48415,NA
@@ -2836,7 +2836,7 @@ Buchanan County VA,51027,NA
 Buckingham County VA,51029,0
 Campbell County VA,51031,NA
 Caroline County VA,51033,NA
-Carroll County VA,51035,33
+Carroll County VA,51035,35
 Charles City County VA,51036,NA
 Charlotte County VA,51037,NA
 Chesterfield County VA,51041,NA
@@ -2885,7 +2885,7 @@ Northampton County VA,51131,0
 Northumberland County VA,51133,NA
 Nottoway County VA,51135,NA
 Orange County VA,51137,NA
-Page County VA,51139,35
+Page County VA,51139,33
 Patrick County VA,51141,NA
 Pittsylvania County VA,51143,NA
 Powhatan County VA,51145,NA
@@ -2906,7 +2906,7 @@ Southampton County VA,51175,0
 Spotsylvania County VA,51177,NA
 Stafford County VA,51179,NA
 Surry County VA,51181,NA
-Sussex County VA,51183,8
+Sussex County VA,51183,9
 Tazewell County VA,51185,NA
 Warren County VA,51187,NA
 Washington County VA,51191,NA
@@ -2934,7 +2934,7 @@ Hopewell city VA,51670,NA
 Lexington city VA,51678,NA
 Lynchburg city VA,51680,NA
 Manassas city VA,51683,NA
-Manassas Park city VA,51685,3
+Manassas Park city VA,51685,4
 Martinsville city VA,51690,NA
 Newport News city VA,51700,NA
 Norfolk city VA,51710,NA
