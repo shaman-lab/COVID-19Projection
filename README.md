@@ -22,7 +22,7 @@ We generate projections based on a number of hypothetical scenarios describing c
 
 ### May 3 - Present: Reopening
 
-We modified Adaptive Interventions control scenarios to account for increases in contact rates due to
+We modified the Adaptive Interventions control scenarios to account for increases in contact rates due to
 loosening restrictions in states that have begun to reopen economically. We project
 four scenarios. In states maintaining or increasing current
 social distancing restrictions, we continue to apply the 20% weekly reductions of contact
