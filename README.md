@@ -17,10 +17,12 @@ Note that hospitalizations and ICU bed numbers indicate the current demand on a 
 
 
 ## Scenarios
+We generate projections based on a number of hypothetical scenarios describing changes in disease transmission rates due to individual behavior and government policies.
+
 
 ### May 3 - Present: Reopening
 
-We modified our control scenarios to account for increases in contact rates due to
+We modified Adaptive Interventions control scenarios to account for increases in contact rates due to
 loosening restrictions in states that have begun to reopen economically. We project
 four scenarios. In states maintaining or increasing current
 social distancing restrictions, we continue to apply the 20% weekly reductions of contact
@@ -33,13 +35,13 @@ businesses.  The third and fourth scenarios are the same as the first and second
 
 The scenario names used in the Projection and Bed output files for these interventions are:
 
--80contact1x10p - Weekly 20% decrease in places with growing weekly cases and a one-time 10% increase in places with return to work 
+- 80contact1x10p - Weekly 20% decrease in places with growing weekly cases and a one-time 10% increase in places with return to work 
 
--80contactw10p - Weekly 20% decrease in places with growing weekly cases and a weekly 10% increase in places with return to work
+- 80contactw10p - Weekly 20% decrease in places with growing weekly cases and a weekly 10% increase in places with return to work
 
--80contact1x5p - Weekly 20% decrease in places with growing weekly cases and a one-time 5% increase in places with return to work 
+- 80contact1x5p - Weekly 20% decrease in places with growing weekly cases and a one-time 5% increase in places with return to work 
 
--80contactw5p - Weekly 20% decrease in places with growing weekly cases and a weekly 5% increase in places with return to work
+- 80contactw5p - Weekly 20% decrease in places with growing weekly cases and a weekly 5% increase in places with return to work
 
 
 ### April 5 - April 26: Adaptive interventions
