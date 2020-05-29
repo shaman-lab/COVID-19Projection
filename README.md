@@ -10,7 +10,9 @@ County-level case and death data are compiled from USAFACTS. https://usafacts.or
 
 Projections are generated for daily new confirmed case, daily new infection (both reported and unreported), cumulative demand of hospital beds, ICU and ventilators as well as daily mortality (2.5, 25, 50, 75 and 97.5 percentiles). 
 
-Projections make assumptions about how the transmission parameters 
+Projections for daily new confirmed case and daily new infection are reported in Projection_*.csv
+
+Projections for cumulative demand of hospital beds, ICU, ventilators and daily mortality are reported in bed_*.csv
 
 Scenarios
 
@@ -27,15 +29,22 @@ scenario, the contact rate is increased by an additional 10% each week to repres
 progressive loosening of restrictions and increased public confidence and frequenting of
 businesses.  The third and fourth scenarios are the same as the first and second scenarios, but with a 5% rather than 10% increase in contact rate in reopening states.
 
+The scenario names used in the Projection and Bed output files for these interventions are:
+
+80contact1x10p - Weekly 20% decrease in places with growing weekly cases and a one-time 10% increase in places with return to work 
+
+80contactw10p - Weekly 20% decrease in places with growing weekly cases and a weekly 10% increase in places with return to work
+
+80contact1x5p - Weekly 20% decrease in places with growing weekly cases and a one-time 5% increase in places with return to work 
+
+80contactw5p - Weekly 20% decrease in places with growing weekly cases and a weekly 5% increase in places with return to work
+
+
 April 5 - April 26: Adaptive interventions
 
 Four different adaptive scenarios of contact reduction were projected, 0% (no contact reduction via social distancing controls and behavior change), 20%, 30%, and 40% contact reduction. These scenarios are meant to mimic adaptive adjustments in contact imposed both by government regulations (e.g. school closures, restrictions on mass gatherings) and population self-regulation (e.g. isolation, mask wearing, social distancing).  Upon initiation of projections on a given day, all counties with 10 or more confirmed cases impose a 0%, 20%, 30% or 40% contact rate reduction, depending on the projection scenario; all other counties implement no contact reduction.  Each week following, if a county newly exceeds 10 confirmed cases, a 0%, 20%, 30% or 40% contact rate reduction is imposed, depending on the projection scenario. Counties that had previously exceeded 10 confirmed cases and also experience an increase in the number of weekly reported confirmed cases impose a further, multiplicative 0%, 20%, 30% or 40% contact rate reduction, depending on the projection scenario.  Counties with fewer than 10 confirmed cases continue not to implement control.  This multiplicative ratcheting of contact reduction levels is continued until the end of simulations and is meant to represent increasing reactive social distancing imposed within counties as long as confirmed weekly cases of COVID-19 continue to rise.
  
-Note that in these scenarios, contact reductions are never relaxed.  Once weekly new confirmed cases decrease, the county simply stays at its current level of control.
-
-Projections for daily new confirmed case and daily new infection are reported in Projection_nointerv.csv, Projection_80contact.csv,  Projection_70contact.csv and Projection_60contact.csv
-
-Projections for cumulative demand of hospital beds, ICU, ventilators and daily mortality are reported in bed_nointerv.csv, bed_80contact.csv, bed_70contact and bed_60contact.csv.
+Scenario names used in output files are Projection_nointerv.csv, Projection_80contact.csv, Projection_70contact.csv and Projection_60contact.csv for 0%, 20%, 30% or 40% contact rate reduction, respectively.
 
 Note that hospitalizations and ICU bed numbers indicate the current demand on a given day (NOT just the new persons needing beds).
 
