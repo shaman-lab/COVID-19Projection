@@ -15,6 +15,7 @@ Projections make assumptions about how the transmission parameters
 Scenarios
 
 May 3 - Present: Reopening
+
 We modified our control scenarios to account for increases in contact rates due to
 loosening restrictions in states that have begun to reopen economically. We project
 four scenarios. In states maintaining or increasing current
@@ -27,6 +28,7 @@ progressive loosening of restrictions and increased public confidence and freque
 businesses.  The third and fourth scenarios are the same as the first and second scenarios, but with a 5% rather than 10% increase in contact rate in reopening states.
 
 April 5 - April 26: Adaptive interventions
+
 Four different adaptive scenarios of contact reduction were projected, 0% (no contact reduction via social distancing controls and behavior change), 20%, 30%, and 40% contact reduction. These scenarios are meant to mimic adaptive adjustments in contact imposed both by government regulations (e.g. school closures, restrictions on mass gatherings) and population self-regulation (e.g. isolation, mask wearing, social distancing).  Upon initiation of projections on a given day, all counties with 10 or more confirmed cases impose a 0%, 20%, 30% or 40% contact rate reduction, depending on the projection scenario; all other counties implement no contact reduction.  Each week following, if a county newly exceeds 10 confirmed cases, a 0%, 20%, 30% or 40% contact rate reduction is imposed, depending on the projection scenario. Counties that had previously exceeded 10 confirmed cases and also experience an increase in the number of weekly reported confirmed cases impose a further, multiplicative 0%, 20%, 30% or 40% contact rate reduction, depending on the projection scenario.  Counties with fewer than 10 confirmed cases continue not to implement control.  This multiplicative ratcheting of contact reduction levels is continued until the end of simulations and is meant to represent increasing reactive social distancing imposed within counties as long as confirmed weekly cases of COVID-19 continue to rise.
  
 Note that in these scenarios, contact reductions are never relaxed.  Once weekly new confirmed cases decrease, the county simply stays at its current level of control.
