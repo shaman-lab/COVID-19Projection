@@ -11,7 +11,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 01019,0
 01021,0
 01023,0
-01025,0
+01025,1
 01027,0
 01029,0
 01031,0
@@ -41,7 +41,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 01079,0
 01081,0
 01083,0
-01085,0
+01085,1
 01087,0
 01089,0
 01091,0
@@ -171,7 +171,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 05117,0
 05119,0
 05121,0
-05123,0
+05123,1
 05125,0
 05127,0
 05129,0
@@ -317,7 +317,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 09015,0
 10001,0
 10003,0
-10005,0
+10005,1
 11001,0
 12001,0
 12003,0
@@ -331,7 +331,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 12019,0
 12021,0
 12023,0
-12027,0
+12027,1
 12029,0
 12031,0
 12033,0
@@ -411,7 +411,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 13047,0
 13049,0
 13051,0
-13053,1
+13053,0
 13055,0
 13057,0
 13059,0
@@ -455,7 +455,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 13135,0
 13137,1
 13139,0
-13141,1
+13141,0
 13143,0
 13145,0
 13147,0
@@ -684,7 +684,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 17175,0
 17177,0
 17179,0
-17181,0
+17181,1
 17183,0
 17185,0
 17187,0
@@ -1112,13 +1112,13 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 21235,0
 21237,0
 21239,0
-22001,0
-22003,1
+22001,1
+22003,0
 22005,0
 22007,0
 22009,0
 22011,0
-22013,0
+22013,1
 22015,0
 22017,0
 22019,0
@@ -1383,7 +1383,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 27135,0
 27137,0
 27139,1
-27141,1
+27141,0
 27143,0
 27145,0
 27147,0
@@ -1403,7 +1403,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 28001,0
 28003,0
 28005,0
-28007,1
+28007,0
 28009,0
 28011,0
 28013,0
@@ -1450,9 +1450,9 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 28095,0
 28097,0
 28099,1
-28101,0
+28101,1
 28103,0
-28105,0
+28105,1
 28107,0
 28109,0
 28111,0
@@ -1548,7 +1548,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 29127,0
 29129,0
 29131,0
-29133,0
+29133,1
 29135,0
 29137,0
 29139,0
@@ -1846,7 +1846,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 36033,0
 36035,0
 36037,0
-36039,1
+36039,0
 36041,0
 36043,0
 36045,0
@@ -1863,7 +1863,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 36067,0
 36069,0
 36071,0
-36073,1
+36073,0
 36075,0
 36077,0
 36079,0
@@ -1985,9 +1985,9 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 37187,0
 37189,0
 37191,0
-37193,0
+37193,1
 37195,0
-37197,0
+37197,1
 37199,0
 38001,0
 38003,0
@@ -2074,7 +2074,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 39059,0
 39061,0
 39063,0
-39065,1
+39065,0
 39067,0
 39069,0
 39071,0
@@ -2334,7 +2334,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 45033,0
 45035,0
 45037,0
-45039,1
+45039,0
 45041,0
 45043,0
 45045,0
@@ -2345,7 +2345,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 45055,0
 45057,0
 45059,0
-45061,0
+45061,1
 45063,0
 45065,0
 45067,0
@@ -2498,7 +2498,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 47137,0
 47139,0
 47141,0
-47143,1
+47143,0
 47145,0
 47147,0
 47149,0
@@ -2532,7 +2532,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 48015,0
 48017,0
 48019,0
-48021,1
+48021,0
 48023,0
 48025,0
 48027,0
@@ -2707,7 +2707,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 48365,0
 48367,0
 48369,0
-48371,1
+48371,0
 48373,0
 48375,0
 48377,0
@@ -2715,7 +2715,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 48381,1
 48383,0
 48385,0
-48387,1
+48387,0
 48389,0
 48391,0
 48393,0
@@ -2731,7 +2731,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 48413,0
 48415,0
 48417,0
-48419,1
+48419,0
 48421,0
 48423,0
 48425,0
@@ -2819,7 +2819,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 50023,0
 50025,0
 50027,0
-51001,0
+51001,1
 51003,0
 51005,0
 51007,0
@@ -2836,7 +2836,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 51029,1
 51031,0
 51033,0
-51035,0
+51035,1
 51036,0
 51037,0
 51041,1
@@ -2845,7 +2845,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 51047,1
 51049,0
 51051,0
-51053,1
+51053,0
 51057,0
 51059,0
 51061,0
@@ -2881,7 +2881,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 51121,0
 51125,0
 51127,0
-51131,1
+51131,0
 51133,0
 51135,0
 51137,0
@@ -3097,7 +3097,7 @@ Fips_code,Whether Overwhelmed Within 6 weeks
 55095,0
 55097,0
 55099,0
-55101,0
+55101,1
 55103,0
 55105,0
 55107,0
