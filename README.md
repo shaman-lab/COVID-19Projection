@@ -15,12 +15,27 @@ Projections for daily new confirmed case and daily new infection are reported in
 Projections for cumulative demand of hospital beds, ICU, ventilators and daily mortality are reported in bed_*.csv
 Note that hospitalizations and ICU bed numbers indicate the current demand on a given day (NOT just the new persons needing beds).
 
+The most recent projection files and estimates of R are also found in LatestProjections.  Projection files in this folder are assigned the names high, low, and mid.  The metadata files in the folder explain the corresponding scenarios. 
+
 
 ## Scenarios
 We generate projections based on a number of hypothetical scenarios describing changes in disease transmission rates due to individual behavior and government policies.
 
 
-### May 3 - Present: Reopening
+### June 14 - Present: Continued transmission
+
+We have initiated 
+
+- nochange - Assumes that current contact rates will remain unchanged in the future.
+
+- 5_1x -  We project a one-time 5% increase in contact rates due to loosening restrictions as states continue to reopen economically, applied at the beginning of the projection.
+
+- 5_2xhold - This scenario assumes a weekly 5% increase in contact rates for two weeks.  The following week, the reproduction number R is set to 1 for the remainder of the projection. 
+
+- season4 - This scenario assumes that current levels of social mixing will remain unchanged in the future.  In addition, it assumes a seasonal decrease in disease transmission leading to a weekly 4% decrease in reproductive number R(t).
+
+
+### May 3 - June 11: Reopening
 
 We modified the Adaptive Interventions control scenarios to account for increases in contact rates due to
 loosening restrictions in states that have begun to reopen economically. We project
@@ -42,6 +57,7 @@ The scenario names used in the Projection and Bed output files for these interve
 - 80contact1x5p - Weekly 20% decrease in places with growing weekly cases and a one-time 5% increase in places with return to work 
 
 - 80contactw5p - Weekly 20% decrease in places with growing weekly cases and a weekly 5% increase in places with return to work
+
 
 
 ### April 5 - April 26: Adaptive interventions
