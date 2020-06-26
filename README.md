@@ -24,7 +24,7 @@ We generate projections based on a number of hypothetical scenarios describing c
 
 ### June 14 - Present: Continued transmission
 
-We have initiated 
+We have initiated the following scenarios:
 
 - nochange - Assumes that current contact rates will remain unchanged in the future.
 
