@@ -59,9 +59,7 @@ ID,Name,FIPS,STATE,Re_median,Re_2.5pct,Re_97.5pct,totalcases
 199,Imperial County CA,06025,06,1.2,1.04,1.35,7134
 201,Kern County CA,06029,06,1.62,1.3,2.03,5261
 202,Kings County CA,06031,06,1.53,1.26,2,2617
-205,Los Angeles County CA,06037,06,0,0,0.56,107666
 206,Madera County CA,06039,06,1.24,0.98,1.44,590
-207,Marin County CA,06041,06,3.26,2.99,3.59,2866
 210,Merced County CA,06047,06,1.59,1.22,1.85,1336
 213,Monterey County CA,06053,06,0.78,0.43,1.06,1748
 214,Napa County CA,06055,06,1.64,1.3,1.97,408
