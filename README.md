@@ -30,11 +30,13 @@ We have initiated the following scenarios:
 
 - nochange - Assumes that current contact rates will remain unchanged in the future.
 
-- 5_1x -  We project a one-time 5% increase in contact rates due to loosening restrictions as states continue to reopen economically, applied at the beginning of the projection.
+- 5_1x (Discontinued 2020-07-18) -  We project a one-time 5% increase in contact rates due to loosening restrictions as states continue to reopen economically, applied at the beginning of the projection.
 
 - 5_2xhold - This scenario assumes a weekly 5% increase in contact rates for two weeks.  The following week, the reproduction number R is set to 1 for the remainder of the projection. 
 
 - season4 - This scenario assumes that current levels of social mixing will remain unchanged in the future.  In addition, it assumes a seasonal decrease in disease transmission leading to a weekly 4% decrease in reproductive number R(t).
+
+- reduce10 (starting 2020-07-18) - We project a weekly 10% decrease in contact rates.
 
 
 ### May 3 - June 11: Reopening
