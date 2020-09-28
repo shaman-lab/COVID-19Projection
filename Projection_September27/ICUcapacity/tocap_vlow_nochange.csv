@@ -1,48 +1,48 @@
 county,id,day_to_overload
-Autauga County AL,01001,23
+Autauga County AL,01001,22
 Baldwin County AL,01003,NA
 Barbour County AL,01005,NA
 Bibb County AL,01007,0
-Blount County AL,01009,6
+Blount County AL,01009,18
 Bullock County AL,01011,NA
 Butler County AL,01013,NA
 Calhoun County AL,01015,NA
 Chambers County AL,01017,NA
 Cherokee County AL,01019,0
-Chilton County AL,01021,25
+Chilton County AL,01021,NA
 Choctaw County AL,01023,NA
-Clarke County AL,01025,0
+Clarke County AL,01025,9
 Clay County AL,01027,NA
 Cleburne County AL,01029,0
 Coffee County AL,01031,NA
 Colbert County AL,01033,NA
-Conecuh County AL,01035,0
-Coosa County AL,01037,5
+Conecuh County AL,01035,NA
+Coosa County AL,01037,18
 Covington County AL,01039,NA
-Crenshaw County AL,01041,0
+Crenshaw County AL,01041,NA
 Cullman County AL,01043,NA
 Dale County AL,01045,NA
 Dallas County AL,01047,NA
 DeKalb County AL,01049,NA
-Elmore County AL,01051,0
+Elmore County AL,01051,16
 Escambia County AL,01053,NA
 Etowah County AL,01055,NA
 Fayette County AL,01057,NA
 Franklin County AL,01059,NA
-Geneva County AL,01061,34
+Geneva County AL,01061,32
 Greene County AL,01063,NA
-Hale County AL,01065,0
+Hale County AL,01065,8
 Henry County AL,01067,0
 Houston County AL,01069,NA
 Jackson County AL,01071,NA
 Jefferson County AL,01073,NA
-Lamar County AL,01075,5
+Lamar County AL,01075,NA
 Lauderdale County AL,01077,NA
 Lawrence County AL,01079,NA
 Lee County AL,01081,NA
-Limestone County AL,01083,31
-Lowndes County AL,01085,3
-Macon County AL,01087,3
+Limestone County AL,01083,33
+Lowndes County AL,01085,NA
+Macon County AL,01087,NA
 Madison County AL,01089,NA
 Marengo County AL,01091,NA
 Marion County AL,01093,NA
@@ -51,12 +51,12 @@ Mobile County AL,01097,NA
 Monroe County AL,01099,NA
 Montgomery County AL,01101,NA
 Morgan County AL,01103,NA
-Perry County AL,01105,4
+Perry County AL,01105,NA
 Pickens County AL,01107,NA
 Pike County AL,01109,NA
 Randolph County AL,01111,0
 Russell County AL,01113,NA
-St. Clair County AL,01115,2
+St. Clair County AL,01115,NA
 Shelby County AL,01117,NA
 Sumter County AL,01119,NA
 Talladega County AL,01121,NA
@@ -64,8 +64,8 @@ Tallapoosa County AL,01123,NA
 Tuscaloosa County AL,01125,NA
 Walker County AL,01127,NA
 Washington County AL,01129,NA
-Wilcox County AL,01131,2
-Winston County AL,01133,NA
+Wilcox County AL,01131,NA
+Winston County AL,01133,29
 Aleutians East Borough AK,02013,NA
 Aleutians West Census Area AK,02016,NA
 Anchorage Municipality AK,02020,NA
@@ -133,8 +133,8 @@ Dallas County AR,05039,NA
 Desha County AR,05041,NA
 Drew County AR,05043,NA
 Faulkner County AR,05045,NA
-Franklin County AR,05047,11
-Fulton County AR,05049,33
+Franklin County AR,05047,42
+Fulton County AR,05049,25
 Garland County AR,05051,NA
 Grant County AR,05053,NA
 Greene County AR,05055,NA
@@ -142,19 +142,19 @@ Hempstead County AR,05057,NA
 Hot Spring County AR,05059,NA
 Howard County AR,05061,NA
 Independence County AR,05063,NA
-Izard County AR,05065,8
+Izard County AR,05065,10
 Jackson County AR,05067,0
 Jefferson County AR,05069,NA
 Johnson County AR,05071,NA
 Lafayette County AR,05073,NA
-Lawrence County AR,05075,2
+Lawrence County AR,05075,8
 Lee County AR,05077,NA
 Lincoln County AR,05079,0
 Little River County AR,05081,NA
 Logan County AR,05083,NA
 Lonoke County AR,05085,0
 Madison County AR,05087,NA
-Marion County AR,05089,NA
+Marion County AR,05089,37
 Miller County AR,05091,0
 Mississippi County AR,05093,NA
 Monroe County AR,05095,NA
@@ -178,7 +178,7 @@ Searcy County AR,05129,NA
 Sebastian County AR,05131,NA
 Sevier County AR,05133,NA
 Sharp County AR,05135,NA
-Stone County AR,05137,0
+Stone County AR,05137,6
 Union County AR,05139,NA
 Van Buren County AR,05141,NA
 Washington County AR,05143,NA
@@ -195,13 +195,13 @@ Contra Costa County CA,06013,NA
 Del Norte County CA,06015,NA
 El Dorado County CA,06017,NA
 Fresno County CA,06019,NA
-Glenn County CA,06021,7
+Glenn County CA,06021,2
 Humboldt County CA,06023,NA
 Imperial County CA,06025,NA
 Inyo County CA,06027,NA
 Kern County CA,06029,NA
-Kings County CA,06031,31
-Lake County CA,06033,NA
+Kings County CA,06031,29
+Lake County CA,06033,41
 Lassen County CA,06035,NA
 Los Angeles County CA,06037,NA
 Madera County CA,06039,NA
@@ -341,7 +341,7 @@ Gadsden County FL,12039,0
 Gilchrist County FL,12041,NA
 Glades County FL,12043,NA
 Gulf County FL,12045,NA
-Hamilton County FL,12047,2
+Hamilton County FL,12047,0
 Hardee County FL,12049,0
 Hendry County FL,12051,NA
 Hernando County FL,12053,NA
@@ -403,7 +403,7 @@ Brooks County GA,13027,NA
 Bryan County GA,13029,0
 Bulloch County GA,13031,NA
 Burke County GA,13033,0
-Butts County GA,13035,4
+Butts County GA,13035,NA
 Calhoun County GA,13037,NA
 Camden County GA,13039,NA
 Candler County GA,13043,NA
@@ -417,7 +417,7 @@ Cherokee County GA,13057,NA
 Clarke County GA,13059,NA
 Clay County GA,13061,NA
 Clayton County GA,13063,NA
-Clinch County GA,13065,0
+Clinch County GA,13065,NA
 Cobb County GA,13067,NA
 Coffee County GA,13069,NA
 Colquitt County GA,13071,NA
@@ -426,14 +426,14 @@ Cook County GA,13075,NA
 Coweta County GA,13077,NA
 Crawford County GA,13079,NA
 Crisp County GA,13081,NA
-Dade County GA,13083,NA
+Dade County GA,13083,3
 Dawson County GA,13085,0
 Decatur County GA,13087,NA
 DeKalb County GA,13089,NA
 Dodge County GA,13091,NA
 Dooly County GA,13093,NA
 Dougherty County GA,13095,NA
-Douglas County GA,13097,26
+Douglas County GA,13097,27
 Early County GA,13099,NA
 Echols County GA,13101,NA
 Effingham County GA,13103,0
@@ -453,7 +453,7 @@ Gordon County GA,13129,NA
 Grady County GA,13131,NA
 Greene County GA,13133,0
 Gwinnett County GA,13135,NA
-Habersham County GA,13137,29
+Habersham County GA,13137,25
 Hall County GA,13139,NA
 Hancock County GA,13141,NA
 Haralson County GA,13143,0
@@ -469,11 +469,11 @@ Jeff Davis County GA,13161,NA
 Jefferson County GA,13163,0
 Jenkins County GA,13165,4
 Johnson County GA,13167,0
-Jones County GA,13169,0
+Jones County GA,13169,5
 Lamar County GA,13171,NA
 Lanier County GA,13173,NA
 Laurens County GA,13175,NA
-Lee County GA,13177,9
+Lee County GA,13177,NA
 Liberty County GA,13179,0
 Lincoln County GA,13181,NA
 Long County GA,13183,NA
@@ -487,7 +487,7 @@ Marion County GA,13197,NA
 Meriwether County GA,13199,NA
 Miller County GA,13201,NA
 Mitchell County GA,13205,4
-Monroe County GA,13207,7
+Monroe County GA,13207,5
 Montgomery County GA,13209,NA
 Morgan County GA,13211,NA
 Murray County GA,13213,6
@@ -509,7 +509,7 @@ Randolph County GA,13243,NA
 Richmond County GA,13245,NA
 Rockdale County GA,13247,NA
 Schley County GA,13249,NA
-Screven County GA,13251,0
+Screven County GA,13251,3
 Seminole County GA,13253,NA
 Spalding County GA,13255,NA
 Stephens County GA,13257,NA
@@ -555,7 +555,7 @@ Adams County ID,16003,NA
 Bannock County ID,16005,NA
 Bear Lake County ID,16007,NA
 Benewah County ID,16009,NA
-Bingham County ID,16011,23
+Bingham County ID,16011,22
 Blaine County ID,16013,NA
 Boise County ID,16015,NA
 Bonner County ID,16017,NA
@@ -572,17 +572,17 @@ Custer County ID,16037,NA
 Elmore County ID,16039,NA
 Franklin County ID,16041,NA
 Fremont County ID,16043,NA
-Gem County ID,16045,33
+Gem County ID,16045,36
 Gooding County ID,16047,NA
-Idaho County ID,16049,5
-Jefferson County ID,16051,5
-Jerome County ID,16053,12
+Idaho County ID,16049,7
+Jefferson County ID,16051,6
+Jerome County ID,16053,NA
 Kootenai County ID,16055,38
 Latah County ID,16057,NA
 Lemhi County ID,16059,NA
 Lewis County ID,16061,NA
 Lincoln County ID,16063,NA
-Madison County ID,16065,15
+Madison County ID,16065,14
 Minidoka County ID,16067,NA
 Nez Perce County ID,16069,NA
 Oneida County ID,16071,NA
@@ -598,13 +598,13 @@ Adams County IL,17001,NA
 Alexander County IL,17003,NA
 Bond County IL,17005,0
 Boone County IL,17007,0
-Brown County IL,17009,38
+Brown County IL,17009,39
 Bureau County IL,17011,NA
 Calhoun County IL,17013,NA
 Carroll County IL,17015,NA
 Cass County IL,17017,NA
 Champaign County IL,17019,NA
-Christian County IL,17021,15
+Christian County IL,17021,16
 Clark County IL,17023,NA
 Clay County IL,17025,NA
 Clinton County IL,17027,NA
@@ -636,7 +636,7 @@ Jackson County IL,17077,NA
 Jasper County IL,17079,NA
 Jefferson County IL,17081,NA
 Jersey County IL,17083,NA
-Jo Daviess County IL,17085,28
+Jo Daviess County IL,17085,31
 Johnson County IL,17087,NA
 Kane County IL,17089,NA
 Kankakee County IL,17091,NA
@@ -657,7 +657,7 @@ Madison County IL,17119,NA
 Marion County IL,17121,NA
 Marshall County IL,17123,NA
 Mason County IL,17125,NA
-Massac County IL,17127,35
+Massac County IL,17127,36
 Menard County IL,17129,NA
 Mercer County IL,17131,NA
 Monroe County IL,17133,0
@@ -671,7 +671,7 @@ Piatt County IL,17147,NA
 Pike County IL,17149,NA
 Pope County IL,17151,NA
 Pulaski County IL,17153,NA
-Putnam County IL,17155,28
+Putnam County IL,17155,32
 Randolph County IL,17157,0
 Richland County IL,17159,NA
 Rock Island County IL,17161,NA
@@ -683,26 +683,26 @@ Scott County IL,17171,NA
 Shelby County IL,17173,0
 Stark County IL,17175,NA
 Stephenson County IL,17177,NA
-Tazewell County IL,17179,27
+Tazewell County IL,17179,26
 Union County IL,17181,NA
 Vermilion County IL,17183,NA
 Wabash County IL,17185,NA
 Warren County IL,17187,NA
-Washington County IL,17189,30
+Washington County IL,17189,33
 Wayne County IL,17191,NA
 White County IL,17193,NA
 Whiteside County IL,17195,NA
 Will County IL,17197,NA
 Williamson County IL,17199,NA
 Winnebago County IL,17201,NA
-Woodford County IL,17203,8
+Woodford County IL,17203,3
 Adams County IN,18001,NA
 Allen County IN,18003,NA
 Bartholomew County IN,18005,NA
 Benton County IN,18007,NA
 Blackford County IN,18009,NA
 Boone County IN,18011,NA
-Brown County IN,18013,40
+Brown County IN,18013,41
 Carroll County IN,18015,NA
 Cass County IN,18017,NA
 Clark County IN,18019,NA
@@ -769,7 +769,7 @@ Rush County IN,18139,NA
 St. Joseph County IN,18141,33
 Scott County IN,18143,NA
 Shelby County IN,18145,NA
-Spencer County IN,18147,14
+Spencer County IN,18147,7
 Starke County IN,18149,NA
 Steuben County IN,18151,NA
 Sullivan County IN,18153,NA
@@ -790,14 +790,14 @@ White County IN,18181,NA
 Whitley County IN,18183,NA
 Adair County IA,19001,NA
 Adams County IA,19003,NA
-Allamakee County IA,19005,42
+Allamakee County IA,19005,NA
 Appanoose County IA,19007,NA
 Audubon County IA,19009,NA
-Benton County IA,19011,9
+Benton County IA,19011,18
 Black Hawk County IA,19013,NA
 Boone County IA,19015,NA
 Bremer County IA,19017,0
-Buchanan County IA,19019,12
+Buchanan County IA,19019,13
 Buena Vista County IA,19021,NA
 Butler County IA,19023,NA
 Calhoun County IA,19025,NA
@@ -805,8 +805,8 @@ Carroll County IA,19027,NA
 Cass County IA,19029,NA
 Cedar County IA,19031,18
 Cerro Gordo County IA,19033,NA
-Cherokee County IA,19035,12
-Chickasaw County IA,19037,13
+Cherokee County IA,19035,10
+Chickasaw County IA,19037,7
 Clarke County IA,19039,NA
 Clay County IA,19041,NA
 Clayton County IA,19043,NA
@@ -818,10 +818,10 @@ Decatur County IA,19053,NA
 Delaware County IA,19055,NA
 Des Moines County IA,19057,NA
 Dickinson County IA,19059,NA
-Dubuque County IA,19061,26
+Dubuque County IA,19061,27
 Emmet County IA,19063,NA
 Fayette County IA,19065,NA
-Floyd County IA,19067,11
+Floyd County IA,19067,10
 Franklin County IA,19069,NA
 Fremont County IA,19071,NA
 Greene County IA,19073,NA
@@ -830,19 +830,19 @@ Guthrie County IA,19077,NA
 Hamilton County IA,19079,NA
 Hancock County IA,19081,NA
 Hardin County IA,19083,NA
-Harrison County IA,19085,NA
-Henry County IA,19087,NA
+Harrison County IA,19085,35
+Henry County IA,19087,10
 Howard County IA,19089,NA
 Humboldt County IA,19091,NA
 Ida County IA,19093,NA
-Iowa County IA,19095,29
-Jackson County IA,19097,9
+Iowa County IA,19095,14
+Jackson County IA,19097,11
 Jasper County IA,19099,NA
 Jefferson County IA,19101,NA
 Johnson County IA,19103,NA
-Jones County IA,19105,29
+Jones County IA,19105,19
 Keokuk County IA,19107,NA
-Kossuth County IA,19109,31
+Kossuth County IA,19109,29
 Lee County IA,19111,NA
 Linn County IA,19113,NA
 Louisa County IA,19115,NA
@@ -858,20 +858,20 @@ Monona County IA,19133,NA
 Monroe County IA,19135,NA
 Montgomery County IA,19137,NA
 Muscatine County IA,19139,NA
-O'Brien County IA,19141,7
+O'Brien County IA,19141,6
 Osceola County IA,19143,NA
 Page County IA,19145,NA
-Palo Alto County IA,19147,42
+Palo Alto County IA,19147,NA
 Plymouth County IA,19149,0
 Pocahontas County IA,19151,NA
 Polk County IA,19153,NA
 Pottawattamie County IA,19155,NA
 Poweshiek County IA,19157,NA
 Ringgold County IA,19159,NA
-Sac County IA,19161,9
+Sac County IA,19161,6
 Scott County IA,19163,NA
 Shelby County IA,19165,NA
-Sioux County IA,19167,4
+Sioux County IA,19167,2
 Story County IA,19169,NA
 Tama County IA,19171,NA
 Taylor County IA,19173,NA
@@ -879,10 +879,10 @@ Union County IA,19175,NA
 Van Buren County IA,19177,NA
 Wapello County IA,19179,NA
 Warren County IA,19181,0
-Washington County IA,19183,22
+Washington County IA,19183,2
 Wayne County IA,19185,NA
 Webster County IA,19187,NA
-Winnebago County IA,19189,7
+Winnebago County IA,19189,6
 Winneshiek County IA,19191,NA
 Woodbury County IA,19193,NA
 Worth County IA,19195,NA
@@ -907,9 +907,9 @@ Comanche County KS,20033,NA
 Cowley County KS,20035,NA
 Crawford County KS,20037,NA
 Decatur County KS,20039,NA
-Dickinson County KS,20041,13
+Dickinson County KS,20041,29
 Doniphan County KS,20043,NA
-Douglas County KS,20045,41
+Douglas County KS,20045,NA
 Edwards County KS,20047,NA
 Elk County KS,20049,NA
 Ellis County KS,20051,NA
@@ -993,7 +993,7 @@ Wilson County KS,20205,NA
 Woodson County KS,20207,NA
 Wyandotte County KS,20209,NA
 Adair County KY,21001,NA
-Allen County KY,21003,26
+Allen County KY,21003,39
 Anderson County KY,21005,NA
 Ballard County KY,21007,NA
 Barren County KY,21009,NA
@@ -1013,7 +1013,7 @@ Calloway County KY,21035,NA
 Campbell County KY,21037,NA
 Carlisle County KY,21039,NA
 Carroll County KY,21041,NA
-Carter County KY,21043,33
+Carter County KY,21043,35
 Casey County KY,21045,NA
 Christian County KY,21047,NA
 Clark County KY,21049,NA
@@ -1024,7 +1024,7 @@ Cumberland County KY,21057,NA
 Daviess County KY,21059,NA
 Edmonson County KY,21061,NA
 Elliott County KY,21063,NA
-Estill County KY,21065,19
+Estill County KY,21065,NA
 Fayette County KY,21067,NA
 Fleming County KY,21069,NA
 Floyd County KY,21071,NA
@@ -1036,7 +1036,7 @@ Grant County KY,21081,NA
 Graves County KY,21083,NA
 Grayson County KY,21085,NA
 Green County KY,21087,NA
-Greenup County KY,21089,5
+Greenup County KY,21089,NA
 Hancock County KY,21091,NA
 Hardin County KY,21093,NA
 Harlan County KY,21095,NA
@@ -1051,7 +1051,7 @@ Jefferson County KY,21111,NA
 Jessamine County KY,21113,NA
 Johnson County KY,21115,NA
 Kenton County KY,21117,NA
-Knott County KY,21119,29
+Knott County KY,21119,31
 Knox County KY,21121,NA
 Larue County KY,21123,NA
 Laurel County KY,21125,NA
@@ -1104,10 +1104,10 @@ Taylor County KY,21217,NA
 Todd County KY,21219,NA
 Trigg County KY,21221,NA
 Trimble County KY,21223,NA
-Union County KY,21225,3
+Union County KY,21225,8
 Warren County KY,21227,NA
 Washington County KY,21229,NA
-Wayne County KY,21231,39
+Wayne County KY,21231,NA
 Webster County KY,21233,NA
 Whitley County KY,21235,41
 Wolfe County KY,21237,NA
@@ -1115,7 +1115,7 @@ Woodford County KY,21239,NA
 Acadia Parish LA,22001,NA
 Allen Parish LA,22003,NA
 Ascension Parish LA,22005,NA
-Assumption Parish LA,22007,38
+Assumption Parish LA,22007,27
 Avoyelles Parish LA,22009,NA
 Beauregard Parish LA,22011,NA
 Bienville Parish LA,22013,NA
@@ -1167,7 +1167,7 @@ St. Tammany Parish LA,22103,NA
 Tangipahoa Parish LA,22105,NA
 Tensas Parish LA,22107,NA
 Terrebonne Parish LA,22109,NA
-Union Parish LA,22111,2
+Union Parish LA,22111,4
 Vermilion Parish LA,22113,NA
 Vernon Parish LA,22115,NA
 Washington Parish LA,22117,NA
@@ -1210,7 +1210,7 @@ Montgomery County MD,24031,NA
 Prince George's County MD,24033,NA
 Queen Anne's County MD,24035,0
 St. Mary's County MD,24037,NA
-Somerset County MD,24039,31
+Somerset County MD,24039,30
 Talbot County MD,24041,NA
 Washington County MD,24043,NA
 Wicomico County MD,24045,NA
@@ -1250,9 +1250,9 @@ Chippewa County MI,26033,NA
 Clare County MI,26035,NA
 Clinton County MI,26037,NA
 Crawford County MI,26039,NA
-Delta County MI,26041,33
+Delta County MI,26041,31
 Dickinson County MI,26043,NA
-Eaton County MI,26045,0
+Eaton County MI,26045,2
 Emmet County MI,26047,NA
 Genesee County MI,26049,NA
 Gladwin County MI,26051,NA
@@ -1265,7 +1265,7 @@ Huron County MI,26063,NA
 Ingham County MI,26065,NA
 Ionia County MI,26067,NA
 Iosco County MI,26069,NA
-Iron County MI,26071,33
+Iron County MI,26071,37
 Isabella County MI,26073,NA
 Jackson County MI,26075,NA
 Kalamazoo County MI,26077,NA
@@ -1279,7 +1279,7 @@ Lenawee County MI,26091,NA
 Livingston County MI,26093,NA
 Luce County MI,26095,NA
 Mackinac County MI,26097,NA
-Macomb County MI,26099,42
+Macomb County MI,26099,41
 Manistee County MI,26101,NA
 Marquette County MI,26103,NA
 Mason County MI,26105,NA
@@ -1317,29 +1317,29 @@ Aitkin County MN,27001,NA
 Anoka County MN,27003,NA
 Becker County MN,27005,NA
 Beltrami County MN,27007,NA
-Benton County MN,27009,10
+Benton County MN,27009,12
 Big Stone County MN,27011,NA
 Blue Earth County MN,27013,NA
 Brown County MN,27015,NA
 Carlton County MN,27017,NA
 Carver County MN,27019,NA
-Cass County MN,27021,42
+Cass County MN,27021,NA
 Chippewa County MN,27023,NA
 Chisago County MN,27025,NA
 Clay County MN,27027,0
 Clearwater County MN,27029,NA
 Cook County MN,27031,NA
 Cottonwood County MN,27033,NA
-Crow Wing County MN,27035,41
-Dakota County MN,27037,34
-Dodge County MN,27039,19
+Crow Wing County MN,27035,40
+Dakota County MN,27037,35
+Dodge County MN,27039,20
 Douglas County MN,27041,NA
 Faribault County MN,27043,NA
-Fillmore County MN,27045,NA
+Fillmore County MN,27045,36
 Freeborn County MN,27047,NA
 Goodhue County MN,27049,NA
 Grant County MN,27051,NA
-Hennepin County MN,27053,37
+Hennepin County MN,27053,35
 Houston County MN,27055,NA
 Hubbard County MN,27057,NA
 Isanti County MN,27059,NA
@@ -1362,21 +1362,21 @@ Martin County MN,27091,NA
 Meeker County MN,27093,NA
 Mille Lacs County MN,27095,NA
 Morrison County MN,27097,NA
-Mower County MN,27099,10
+Mower County MN,27099,16
 Murray County MN,27101,NA
-Nicollet County MN,27103,34
+Nicollet County MN,27103,35
 Nobles County MN,27105,NA
 Norman County MN,27107,NA
 Olmsted County MN,27109,NA
 Otter Tail County MN,27111,NA
 Pennington County MN,27113,NA
-Pine County MN,27115,5
+Pine County MN,27115,4
 Pipestone County MN,27117,NA
 Polk County MN,27119,NA
 Pope County MN,27121,NA
 Ramsey County MN,27123,NA
 Red Lake County MN,27125,NA
-Redwood County MN,27127,17
+Redwood County MN,27127,12
 Renville County MN,27129,NA
 Rice County MN,27131,NA
 Rock County MN,27133,NA
@@ -1391,7 +1391,7 @@ Stevens County MN,27149,NA
 Swift County MN,27151,NA
 Todd County MN,27153,NA
 Traverse County MN,27155,NA
-Wabasha County MN,27157,24
+Wabasha County MN,27157,33
 Wadena County MN,27159,NA
 Waseca County MN,27161,0
 Washington County MN,27163,NA
@@ -1483,23 +1483,23 @@ Winston County MS,28159,NA
 Yalobusha County MS,28161,NA
 Yazoo County MS,28163,NA
 Adair County MO,29001,NA
-Andrew County MO,29003,8
+Andrew County MO,29003,6
 Atchison County MO,29005,NA
 Audrain County MO,29007,NA
-Barry County MO,29009,24
+Barry County MO,29009,17
 Barton County MO,29011,NA
 Bates County MO,29013,NA
-Benton County MO,29015,5
+Benton County MO,29015,4
 Bollinger County MO,29017,0
 Boone County MO,29019,NA
-Buchanan County MO,29021,NA
+Buchanan County MO,29021,41
 Butler County MO,29023,NA
 Caldwell County MO,29025,NA
 Callaway County MO,29027,0
 Camden County MO,29029,NA
 Cape Girardeau County MO,29031,NA
 Carroll County MO,29033,NA
-Carter County MO,29035,31
+Carter County MO,29035,32
 Cass County MO,29037,NA
 Cedar County MO,29039,NA
 Chariton County MO,29041,NA
@@ -1512,9 +1512,9 @@ Cooper County MO,29053,0
 Crawford County MO,29055,0
 Dade County MO,29057,NA
 Dallas County MO,29059,NA
-Daviess County MO,29061,NA
-DeKalb County MO,29063,NA
-Dent County MO,29065,21
+Daviess County MO,29061,16
+DeKalb County MO,29063,19
+Dent County MO,29065,9
 Douglas County MO,29067,NA
 Dunklin County MO,29069,NA
 Franklin County MO,29071,NA
@@ -1534,39 +1534,39 @@ Jasper County MO,29097,NA
 Jefferson County MO,29099,NA
 Johnson County MO,29101,NA
 Knox County MO,29103,NA
-Laclede County MO,29105,20
-Lafayette County MO,29107,23
+Laclede County MO,29105,18
+Lafayette County MO,29107,20
 Lawrence County MO,29109,0
 Lewis County MO,29111,NA
 Lincoln County MO,29113,NA
 Linn County MO,29115,NA
 Livingston County MO,29117,NA
 McDonald County MO,29119,NA
-Macon County MO,29121,32
+Macon County MO,29121,30
 Madison County MO,29123,NA
 Maries County MO,29125,NA
 Marion County MO,29127,NA
 Mercer County MO,29129,NA
 Miller County MO,29131,0
 Mississippi County MO,29133,NA
-Moniteau County MO,29135,8
+Moniteau County MO,29135,10
 Monroe County MO,29137,NA
 Montgomery County MO,29139,NA
 Morgan County MO,29141,0
 New Madrid County MO,29143,NA
-Newton County MO,29145,21
+Newton County MO,29145,18
 Nodaway County MO,29147,NA
 Oregon County MO,29149,NA
-Osage County MO,29151,31
+Osage County MO,29151,NA
 Ozark County MO,29153,NA
 Pemiscot County MO,29155,NA
 Perry County MO,29157,NA
-Pettis County MO,29159,30
+Pettis County MO,29159,31
 Phelps County MO,29161,NA
 Pike County MO,29163,NA
 Platte County MO,29165,NA
 Polk County MO,29167,NA
-Pulaski County MO,29169,29
+Pulaski County MO,29169,31
 Putnam County MO,29171,NA
 Ralls County MO,29173,NA
 Randolph County MO,29175,NA
@@ -1574,9 +1574,9 @@ Ray County MO,29177,NA
 Reynolds County MO,29179,NA
 Ripley County MO,29181,NA
 St. Charles County MO,29183,NA
-St. Clair County MO,29185,27
-Ste. Genevieve County MO,29186,33
-St. Francois County MO,29187,38
+St. Clair County MO,29185,30
+Ste. Genevieve County MO,29186,NA
+St. Francois County MO,29187,40
 St. Louis County MO,29189,NA
 Saline County MO,29195,NA
 Schuyler County MO,29197,NA
@@ -1585,14 +1585,14 @@ Scott County MO,29201,NA
 Shannon County MO,29203,NA
 Shelby County MO,29205,NA
 Stoddard County MO,29207,NA
-Stone County MO,29209,2
+Stone County MO,29209,3
 Sullivan County MO,29211,NA
 Taney County MO,29213,NA
 Texas County MO,29215,NA
 Vernon County MO,29217,NA
-Warren County MO,29219,0
-Washington County MO,29221,7
-Wayne County MO,29223,3
+Warren County MO,29219,7
+Washington County MO,29221,3
+Wayne County MO,29223,12
 Webster County MO,29225,0
 Worth County MO,29227,NA
 Wright County MO,29229,0
@@ -1614,7 +1614,7 @@ Fergus County MT,30027,NA
 Flathead County MT,30029,NA
 Gallatin County MT,30031,NA
 Garfield County MT,30033,NA
-Glacier County MT,30035,NA
+Glacier County MT,30035,14
 Golden Valley County MT,30037,NA
 Granite County MT,30039,NA
 Hill County MT,30041,NA
@@ -1628,7 +1628,7 @@ McCone County MT,30055,NA
 Madison County MT,30057,NA
 Meagher County MT,30059,NA
 Mineral County MT,30061,NA
-Missoula County MT,30063,42
+Missoula County MT,30063,NA
 Musselshell County MT,30065,NA
 Park County MT,30067,NA
 Petroleum County MT,30069,NA
@@ -1639,7 +1639,7 @@ Powell County MT,30077,NA
 Prairie County MT,30079,NA
 Ravalli County MT,30081,NA
 Richland County MT,30083,NA
-Roosevelt County MT,30085,NA
+Roosevelt County MT,30085,15
 Rosebud County MT,30087,0
 Sanders County MT,30089,NA
 Sheridan County MT,30091,NA
@@ -1730,7 +1730,7 @@ Richardson County NE,31147,NA
 Rock County NE,31149,NA
 Saline County NE,31151,NA
 Sarpy County NE,31153,NA
-Saunders County NE,31155,21
+Saunders County NE,31155,3
 Scotts Bluff County NE,31157,NA
 Seward County NE,31159,NA
 Sheridan County NE,31161,NA
@@ -1787,7 +1787,7 @@ Mercer County NJ,34021,NA
 Middlesex County NJ,34023,NA
 Monmouth County NJ,34025,NA
 Morris County NJ,34027,NA
-Ocean County NJ,34029,32
+Ocean County NJ,34029,33
 Passaic County NJ,34031,NA
 Salem County NJ,34033,NA
 Somerset County NJ,34035,NA
@@ -1801,7 +1801,7 @@ Cibola County NM,35006,NA
 Colfax County NM,35007,NA
 Curry County NM,35009,NA
 De Baca County NM,35011,NA
-Doa Ana County NM,35013,31
+Doa Ana County NM,35013,32
 Eddy County NM,35015,NA
 Grant County NM,35017,NA
 Guadalupe County NM,35019,NA
@@ -1816,7 +1816,7 @@ Mora County NM,35033,NA
 Otero County NM,35035,NA
 Quay County NM,35037,NA
 Rio Arriba County NM,35039,NA
-Roosevelt County NM,35041,4
+Roosevelt County NM,35041,0
 Sandoval County NM,35043,NA
 San Juan County NM,35045,NA
 San Miguel County NM,35047,NA
@@ -1826,7 +1826,7 @@ Socorro County NM,35053,NA
 Taos County NM,35055,NA
 Torrance County NM,35057,NA
 Union County NM,35059,NA
-Valencia County NM,35061,NA
+Valencia County NM,35061,36
 Albany County NY,36001,NA
 Allegany County NY,36003,NA
 Bronx County NY,36005,NA
@@ -1892,7 +1892,7 @@ Yates County NY,36123,NA
 Alamance County NC,37001,NA
 Alexander County NC,37003,NA
 Alleghany County NC,37005,NA
-Anson County NC,37007,10
+Anson County NC,37007,4
 Ashe County NC,37009,NA
 Avery County NC,37011,NA
 Beaufort County NC,37013,NA
@@ -1915,7 +1915,7 @@ Cleveland County NC,37045,NA
 Columbus County NC,37047,NA
 Craven County NC,37049,NA
 Cumberland County NC,37051,NA
-Currituck County NC,37053,17
+Currituck County NC,37053,24
 Dare County NC,37055,NA
 Davidson County NC,37057,NA
 Davie County NC,37059,NA
@@ -1928,10 +1928,10 @@ Gaston County NC,37071,NA
 Gates County NC,37073,NA
 Graham County NC,37075,20
 Granville County NC,37077,NA
-Greene County NC,37079,6
+Greene County NC,37079,4
 Guilford County NC,37081,NA
 Halifax County NC,37083,NA
-Harnett County NC,37085,29
+Harnett County NC,37085,32
 Haywood County NC,37087,NA
 Henderson County NC,37089,NA
 Hertford County NC,37091,NA
@@ -1959,7 +1959,7 @@ Onslow County NC,37133,NA
 Orange County NC,37135,NA
 Pamlico County NC,37137,NA
 Pasquotank County NC,37139,NA
-Pender County NC,37141,4
+Pender County NC,37141,3
 Perquimans County NC,37143,NA
 Person County NC,37145,NA
 Pitt County NC,37147,NA
@@ -1973,7 +1973,7 @@ Rutherford County NC,37161,NA
 Sampson County NC,37163,NA
 Scotland County NC,37165,NA
 Stanly County NC,37167,33
-Stokes County NC,37169,29
+Stokes County NC,37169,32
 Surry County NC,37171,NA
 Swain County NC,37173,NA
 Transylvania County NC,37175,NA
@@ -1981,7 +1981,7 @@ Tyrrell County NC,37177,NA
 Union County NC,37179,NA
 Vance County NC,37181,NA
 Wake County NC,37183,NA
-Warren County NC,37185,27
+Warren County NC,37185,35
 Washington County NC,37187,NA
 Watauga County NC,37189,NA
 Wayne County NC,37191,NA
@@ -2042,9 +2042,9 @@ Walsh County ND,38099,NA
 Ward County ND,38101,NA
 Wells County ND,38103,NA
 Williams County ND,38105,0
-Adams County OH,39001,30
+Adams County OH,39001,37
 Allen County OH,39003,NA
-Ashland County OH,39005,19
+Ashland County OH,39005,16
 Ashtabula County OH,39007,NA
 Athens County OH,39009,0
 Auglaize County OH,39011,NA
@@ -2095,7 +2095,7 @@ Mahoning County OH,39099,NA
 Marion County OH,39101,NA
 Medina County OH,39103,NA
 Meigs County OH,39105,NA
-Mercer County OH,39107,32
+Mercer County OH,39107,27
 Miami County OH,39109,NA
 Monroe County OH,39111,NA
 Montgomery County OH,39113,NA
@@ -2107,11 +2107,11 @@ Ottawa County OH,39123,NA
 Paulding County OH,39125,NA
 Perry County OH,39127,NA
 Pickaway County OH,39129,NA
-Pike County OH,39131,8
+Pike County OH,39131,13
 Portage County OH,39133,NA
 Preble County OH,39135,NA
 Putnam County OH,39137,0
-Richland County OH,39139,32
+Richland County OH,39139,33
 Ross County OH,39141,NA
 Sandusky County OH,39143,NA
 Scioto County OH,39145,NA
@@ -2128,13 +2128,13 @@ Warren County OH,39165,NA
 Washington County OH,39167,NA
 Wayne County OH,39169,NA
 Williams County OH,39171,NA
-Wood County OH,39173,NA
+Wood County OH,39173,42
 Wyandot County OH,39175,NA
 Adair County OK,40001,0
 Alfalfa County OK,40003,NA
 Atoka County OK,40005,0
 Beaver County OK,40007,NA
-Beckham County OK,40009,32
+Beckham County OK,40009,31
 Blaine County OK,40011,NA
 Bryan County OK,40013,NA
 Caddo County OK,40015,NA
@@ -2149,28 +2149,28 @@ Comanche County OK,40031,NA
 Cotton County OK,40033,NA
 Craig County OK,40035,0
 Creek County OK,40037,0
-Custer County OK,40039,22
+Custer County OK,40039,19
 Delaware County OK,40041,NA
 Dewey County OK,40043,NA
 Ellis County OK,40045,NA
 Garfield County OK,40047,NA
-Garvin County OK,40049,25
-Grady County OK,40051,27
+Garvin County OK,40049,21
+Grady County OK,40051,26
 Grant County OK,40053,NA
 Greer County OK,40055,NA
 Harmon County OK,40057,NA
 Harper County OK,40059,NA
-Haskell County OK,40061,NA
+Haskell County OK,40061,6
 Hughes County OK,40063,NA
 Jackson County OK,40065,NA
 Jefferson County OK,40067,NA
 Johnston County OK,40069,NA
-Kay County OK,40071,34
+Kay County OK,40071,35
 Kingfisher County OK,40073,NA
 Kiowa County OK,40075,NA
 Latimer County OK,40077,NA
-Le Flore County OK,40079,27
-Lincoln County OK,40081,5
+Le Flore County OK,40079,28
+Lincoln County OK,40081,22
 Logan County OK,40083,NA
 Love County OK,40085,NA
 McClain County OK,40087,0
@@ -2196,7 +2196,7 @@ Pottawatomie County OK,40125,NA
 Pushmataha County OK,40127,NA
 Roger Mills County OK,40129,NA
 Rogers County OK,40131,NA
-Seminole County OK,40133,8
+Seminole County OK,40133,6
 Sequoyah County OK,40135,0
 Stephens County OK,40137,NA
 Texas County OK,40139,0
@@ -2205,13 +2205,13 @@ Tulsa County OK,40143,NA
 Wagoner County OK,40145,NA
 Washington County OK,40147,NA
 Washita County OK,40149,NA
-Woods County OK,40151,9
+Woods County OK,40151,12
 Woodward County OK,40153,7
 Baker County OR,41001,NA
 Benton County OR,41003,NA
 Clackamas County OR,41005,NA
-Clatsop County OR,41007,30
-Columbia County OR,41009,NA
+Clatsop County OR,41007,33
+Columbia County OR,41009,41
 Coos County OR,41011,NA
 Crook County OR,41013,NA
 Curry County OR,41015,NA
@@ -2276,7 +2276,7 @@ Greene County PA,42059,NA
 Huntingdon County PA,42061,NA
 Indiana County PA,42063,NA
 Jefferson County PA,42065,NA
-Juniata County PA,42067,28
+Juniata County PA,42067,32
 Lackawanna County PA,42069,NA
 Lancaster County PA,42071,NA
 Lawrence County PA,42073,NA
@@ -2291,7 +2291,7 @@ Monroe County PA,42089,NA
 Montgomery County PA,42091,NA
 Montour County PA,42093,NA
 Northampton County PA,42095,NA
-Northumberland County PA,42097,31
+Northumberland County PA,42097,30
 Perry County PA,42099,NA
 Philadelphia County PA,42101,NA
 Pike County PA,42103,NA
@@ -2310,7 +2310,7 @@ Wayne County PA,42127,NA
 Westmoreland County PA,42129,NA
 Wyoming County PA,42131,NA
 York County PA,42133,NA
-Bristol County RI,44001,26
+Bristol County RI,44001,19
 Kent County RI,44003,NA
 Newport County RI,44005,NA
 Providence County RI,44007,NA
@@ -2320,8 +2320,8 @@ Aiken County SC,45003,15
 Allendale County SC,45005,NA
 Anderson County SC,45007,NA
 Bamberg County SC,45009,NA
-Barnwell County SC,45011,11
-Beaufort County SC,45013,36
+Barnwell County SC,45011,6
+Beaufort County SC,45013,35
 Berkeley County SC,45015,0
 Calhoun County SC,45017,NA
 Charleston County SC,45019,NA
@@ -2346,7 +2346,7 @@ Kershaw County SC,45055,NA
 Lancaster County SC,45057,NA
 Laurens County SC,45059,NA
 Lee County SC,45061,NA
-Lexington County SC,45063,42
+Lexington County SC,45063,NA
 McCormick County SC,45065,NA
 Marion County SC,45067,NA
 Marlboro County SC,45069,0
@@ -2392,7 +2392,7 @@ Hamlin County SD,46057,NA
 Hand County SD,46059,NA
 Hanson County SD,46061,NA
 Harding County SD,46063,NA
-Hughes County SD,46065,31
+Hughes County SD,46065,30
 Hutchinson County SD,46067,NA
 Hyde County SD,46069,NA
 Jackson County SD,46071,NA
@@ -2411,19 +2411,19 @@ Mellette County SD,46095,NA
 Miner County SD,46097,NA
 Minnehaha County SD,46099,NA
 Moody County SD,46101,NA
-Oglala Lakota County SD,46102,10
+Oglala Lakota County SD,46102,NA
 Pennington County SD,46103,NA
 Perkins County SD,46105,NA
 Potter County SD,46107,NA
-Roberts County SD,46109,NA
+Roberts County SD,46109,35
 Sanborn County SD,46111,NA
 Spink County SD,46115,NA
 Stanley County SD,46117,NA
 Sully County SD,46119,NA
 Todd County SD,46121,NA
 Tripp County SD,46123,NA
-Turner County SD,46125,37
-Union County SD,46127,3
+Turner County SD,46125,NA
+Union County SD,46127,13
 Walworth County SD,46129,NA
 Yankton County SD,46135,NA
 Ziebach County SD,46137,NA
@@ -2437,13 +2437,13 @@ Campbell County TN,47013,NA
 Cannon County TN,47015,NA
 Carroll County TN,47017,NA
 Carter County TN,47019,NA
-Cheatham County TN,47021,37
+Cheatham County TN,47021,3
 Chester County TN,47023,0
 Claiborne County TN,47025,NA
 Clay County TN,47027,34
 Cocke County TN,47029,NA
 Coffee County TN,47031,NA
-Crockett County TN,47033,13
+Crockett County TN,47033,15
 Cumberland County TN,47035,NA
 Davidson County TN,47037,NA
 Decatur County TN,47039,0
@@ -2453,11 +2453,11 @@ Dyer County TN,47045,NA
 Fayette County TN,47047,0
 Fentress County TN,47049,0
 Franklin County TN,47051,NA
-Gibson County TN,47053,19
+Gibson County TN,47053,14
 Giles County TN,47055,NA
 Grainger County TN,47057,NA
 Greene County TN,47059,NA
-Grundy County TN,47061,11
+Grundy County TN,47061,15
 Hamblen County TN,47063,NA
 Hamilton County TN,47065,NA
 Hancock County TN,47067,NA
@@ -2467,9 +2467,9 @@ Hawkins County TN,47073,NA
 Haywood County TN,47075,0
 Henderson County TN,47077,0
 Henry County TN,47079,NA
-Hickman County TN,47081,6
-Houston County TN,47083,33
-Humphreys County TN,47085,36
+Hickman County TN,47081,3
+Houston County TN,47083,21
+Humphreys County TN,47085,39
 Jackson County TN,47087,NA
 Jefferson County TN,47089,NA
 Johnson County TN,47091,0
@@ -2499,7 +2499,7 @@ Pickett County TN,47137,NA
 Polk County TN,47139,NA
 Putnam County TN,47141,NA
 Rhea County TN,47143,NA
-Roane County TN,47145,32
+Roane County TN,47145,33
 Robertson County TN,47147,NA
 Rutherford County TN,47149,NA
 Scott County TN,47151,NA
@@ -2507,20 +2507,20 @@ Sequatchie County TN,47153,NA
 Sevier County TN,47155,NA
 Shelby County TN,47157,NA
 Smith County TN,47159,NA
-Stewart County TN,47161,38
+Stewart County TN,47161,34
 Sullivan County TN,47163,NA
 Sumner County TN,47165,NA
 Tipton County TN,47167,NA
 Trousdale County TN,47169,NA
 Unicoi County TN,47171,NA
-Union County TN,47173,13
+Union County TN,47173,7
 Van Buren County TN,47175,NA
 Warren County TN,47177,NA
 Washington County TN,47179,NA
 Wayne County TN,47181,0
 Weakley County TN,47183,NA
 White County TN,47185,NA
-Williamson County TN,47187,40
+Williamson County TN,47187,39
 Wilson County TN,47189,NA
 Anderson County TX,48001,NA
 Andrews County TX,48003,NA
@@ -2528,7 +2528,7 @@ Angelina County TX,48005,NA
 Aransas County TX,48007,NA
 Archer County TX,48009,NA
 Armstrong County TX,48011,NA
-Atascosa County TX,48013,33
+Atascosa County TX,48013,35
 Austin County TX,48015,NA
 Bailey County TX,48017,NA
 Bandera County TX,48019,NA
@@ -2557,7 +2557,7 @@ Camp County TX,48063,NA
 Carson County TX,48065,NA
 Cass County TX,48067,NA
 Castro County TX,48069,NA
-Chambers County TX,48071,0
+Chambers County TX,48071,4
 Cherokee County TX,48073,NA
 Childress County TX,48075,NA
 Clay County TX,48077,NA
@@ -2569,7 +2569,7 @@ Collingsworth County TX,48087,NA
 Colorado County TX,48089,NA
 Comal County TX,48091,NA
 Comanche County TX,48093,NA
-Concho County TX,48095,10
+Concho County TX,48095,8
 Cooke County TX,48097,NA
 Coryell County TX,48099,0
 Cottle County TX,48101,NA
@@ -2579,7 +2579,7 @@ Crosby County TX,48107,NA
 Culberson County TX,48109,NA
 Dallam County TX,48111,NA
 Dallas County TX,48113,NA
-Dawson County TX,48115,2
+Dawson County TX,48115,5
 Deaf Smith County TX,48117,NA
 Delta County TX,48119,NA
 Denton County TX,48121,NA
@@ -2594,16 +2594,16 @@ Edwards County TX,48137,NA
 Ellis County TX,48139,NA
 El Paso County TX,48141,NA
 Erath County TX,48143,NA
-Falls County TX,48145,25
+Falls County TX,48145,10
 Fannin County TX,48147,NA
-Fayette County TX,48149,4
+Fayette County TX,48149,5
 Fisher County TX,48151,NA
 Floyd County TX,48153,NA
 Foard County TX,48155,NA
 Fort Bend County TX,48157,NA
 Franklin County TX,48159,NA
 Freestone County TX,48161,NA
-Frio County TX,48163,38
+Frio County TX,48163,NA
 Gaines County TX,48165,NA
 Galveston County TX,48167,NA
 Garza County TX,48169,NA
@@ -2614,7 +2614,7 @@ Gonzales County TX,48177,NA
 Gray County TX,48179,NA
 Grayson County TX,48181,NA
 Gregg County TX,48183,NA
-Grimes County TX,48185,9
+Grimes County TX,48185,3
 Guadalupe County TX,48187,NA
 Hale County TX,48189,NA
 Hall County TX,48191,NA
@@ -2631,11 +2631,11 @@ Hemphill County TX,48211,NA
 Henderson County TX,48213,NA
 Hidalgo County TX,48215,NA
 Hill County TX,48217,NA
-Hockley County TX,48219,35
+Hockley County TX,48219,20
 Hood County TX,48221,NA
 Hopkins County TX,48223,NA
 Houston County TX,48225,NA
-Howard County TX,48227,NA
+Howard County TX,48227,34
 Hudspeth County TX,48229,NA
 Hunt County TX,48231,NA
 Hutchinson County TX,48233,NA
@@ -2647,7 +2647,7 @@ Jeff Davis County TX,48243,NA
 Jefferson County TX,48245,NA
 Jim Hogg County TX,48247,NA
 Jim Wells County TX,48249,NA
-Johnson County TX,48251,30
+Johnson County TX,48251,29
 Jones County TX,48253,NA
 Karnes County TX,48255,NA
 Kaufman County TX,48257,NA
@@ -2662,7 +2662,7 @@ Kleberg County TX,48273,NA
 Knox County TX,48275,NA
 Lamar County TX,48277,NA
 Lamb County TX,48279,NA
-Lampasas County TX,48281,25
+Lampasas County TX,48281,31
 La Salle County TX,48283,NA
 Lavaca County TX,48285,NA
 Lee County TX,48287,NA
@@ -2765,7 +2765,7 @@ Webb County TX,48479,NA
 Wharton County TX,48481,NA
 Wheeler County TX,48483,NA
 Wichita County TX,48485,NA
-Wilbarger County TX,48487,38
+Wilbarger County TX,48487,NA
 Willacy County TX,48489,0
 Williamson County TX,48491,NA
 Wilson County TX,48493,NA
@@ -2781,7 +2781,7 @@ Box Elder County UT,49003,NA
 Cache County UT,49005,NA
 Carbon County UT,49007,NA
 Daggett County UT,49009,NA
-Davis County UT,49011,32
+Davis County UT,49011,34
 Duchesne County UT,49013,NA
 Emery County UT,49015,NA
 Garfield County UT,49017,NA
@@ -2835,8 +2835,8 @@ Brunswick County VA,51025,NA
 Buchanan County VA,51027,NA
 Buckingham County VA,51029,NA
 Campbell County VA,51031,4
-Caroline County VA,51033,9
-Carroll County VA,51035,10
+Caroline County VA,51033,5
+Carroll County VA,51035,0
 Charles City County VA,51036,NA
 Charlotte County VA,51037,NA
 Chesterfield County VA,51041,NA
@@ -2852,7 +2852,7 @@ Fauquier County VA,51061,NA
 Floyd County VA,51063,NA
 Fluvanna County VA,51065,0
 Franklin County VA,51067,NA
-Frederick County VA,51069,6
+Frederick County VA,51069,0
 Giles County VA,51071,NA
 Gloucester County VA,51073,NA
 Goochland County VA,51075,NA
@@ -2869,22 +2869,22 @@ James City County VA,51095,NA
 King and Queen County VA,51097,NA
 King George County VA,51099,NA
 King William County VA,51101,NA
-Lancaster County VA,51103,3
+Lancaster County VA,51103,7
 Lee County VA,51105,NA
 Loudoun County VA,51107,NA
 Louisa County VA,51109,NA
 Lunenburg County VA,51111,NA
 Madison County VA,51113,NA
-Mathews County VA,51115,15
+Mathews County VA,51115,14
 Mecklenburg County VA,51117,NA
-Middlesex County VA,51119,23
+Middlesex County VA,51119,20
 Montgomery County VA,51121,NA
 Nelson County VA,51125,NA
 New Kent County VA,51127,NA
 Northampton County VA,51131,NA
-Northumberland County VA,51133,29
+Northumberland County VA,51133,30
 Nottoway County VA,51135,NA
-Orange County VA,51137,6
+Orange County VA,51137,20
 Page County VA,51139,NA
 Patrick County VA,51141,NA
 Pittsylvania County VA,51143,0
@@ -2910,7 +2910,7 @@ Sussex County VA,51183,6
 Tazewell County VA,51185,NA
 Warren County VA,51187,NA
 Washington County VA,51191,NA
-Westmoreland County VA,51193,NA
+Westmoreland County VA,51193,39
 Wise County VA,51195,NA
 Wythe County VA,51197,NA
 York County VA,51199,NA
@@ -2919,7 +2919,7 @@ Bristol city VA,51520,NA
 Buena Vista city VA,51530,NA
 Charlottesville city VA,51540,NA
 Chesapeake city VA,51550,NA
-Colonial Heights city VA,51570,28
+Colonial Heights city VA,51570,29
 Covington city VA,51580,NA
 Danville city VA,51590,NA
 Emporia city VA,51595,NA
@@ -2931,7 +2931,7 @@ Galax city VA,51640,NA
 Hampton city VA,51650,NA
 Harrisonburg city VA,51660,NA
 Hopewell city VA,51670,NA
-Lexington city VA,51678,26
+Lexington city VA,51678,25
 Lynchburg city VA,51680,NA
 Manassas city VA,51683,NA
 Manassas Park city VA,51685,NA
@@ -2946,18 +2946,18 @@ Radford city VA,51750,0
 Richmond city VA,51760,NA
 Roanoke city VA,51770,NA
 Salem city VA,51775,NA
-Staunton city VA,51790,2
+Staunton city VA,51790,3
 Suffolk city VA,51800,NA
 Virginia Beach city VA,51810,NA
 Waynesboro city VA,51820,NA
-Williamsburg city VA,51830,NA
+Williamsburg city VA,51830,41
 Winchester city VA,51840,NA
 Adams County WA,53001,0
-Asotin County WA,53003,35
+Asotin County WA,53003,33
 Benton County WA,53005,NA
 Chelan County WA,53007,NA
 Clallam County WA,53009,NA
-Clark County WA,53011,28
+Clark County WA,53011,27
 Columbia County WA,53013,NA
 Cowlitz County WA,53015,NA
 Douglas County WA,53017,NA
@@ -2993,7 +2993,7 @@ Whitman County WA,53075,NA
 Yakima County WA,53077,NA
 Barbour County WV,54001,NA
 Berkeley County WV,54003,NA
-Boone County WV,54005,28
+Boone County WV,54005,24
 Braxton County WV,54007,NA
 Brooke County WV,54009,NA
 Cabell County WV,54011,NA
@@ -3001,7 +3001,7 @@ Calhoun County WV,54013,NA
 Clay County WV,54015,NA
 Doddridge County WV,54017,NA
 Fayette County WV,54019,NA
-Gilmer County WV,54021,32
+Gilmer County WV,54021,29
 Grant County WV,54023,NA
 Greenbrier County WV,54025,NA
 Hampshire County WV,54027,NA
@@ -3035,90 +3035,90 @@ Raleigh County WV,54081,NA
 Randolph County WV,54083,NA
 Ritchie County WV,54085,NA
 Roane County WV,54087,NA
-Summers County WV,54089,35
+Summers County WV,54089,29
 Taylor County WV,54091,NA
 Tucker County WV,54093,NA
 Tyler County WV,54095,NA
 Upshur County WV,54097,NA
-Wayne County WV,54099,15
+Wayne County WV,54099,11
 Webster County WV,54101,NA
 Wetzel County WV,54103,NA
 Wirt County WV,54105,NA
 Wood County WV,54107,NA
-Wyoming County WV,54109,39
-Adams County WI,55001,27
-Ashland County WI,55003,30
+Wyoming County WV,54109,NA
+Adams County WI,55001,38
+Ashland County WI,55003,26
 Barron County WI,55005,NA
 Bayfield County WI,55007,NA
 Brown County WI,55009,NA
 Buffalo County WI,55011,NA
-Burnett County WI,55013,23
+Burnett County WI,55013,21
 Calumet County WI,55015,0
 Chippewa County WI,55017,NA
-Clark County WI,55019,24
+Clark County WI,55019,27
 Columbia County WI,55021,NA
 Crawford County WI,55023,NA
 Dane County WI,55025,NA
 Dodge County WI,55027,NA
 Door County WI,55029,NA
-Douglas County WI,55031,35
-Dunn County WI,55033,6
+Douglas County WI,55031,39
+Dunn County WI,55033,5
 Eau Claire County WI,55035,NA
 Florence County WI,55037,NA
-Fond du Lac County WI,55039,39
+Fond du Lac County WI,55039,37
 Forest County WI,55041,NA
 Grant County WI,55043,0
 Green County WI,55045,NA
 Green Lake County WI,55047,NA
 Iowa County WI,55049,NA
 Iron County WI,55051,NA
-Jackson County WI,55053,41
+Jackson County WI,55053,NA
 Jefferson County WI,55055,NA
-Juneau County WI,55057,21
+Juneau County WI,55057,26
 Kenosha County WI,55059,NA
-Kewaunee County WI,55061,4
+Kewaunee County WI,55061,3
 La Crosse County WI,55063,NA
 Lafayette County WI,55065,NA
 Langlade County WI,55067,NA
-Lincoln County WI,55069,NA
+Lincoln County WI,55069,35
 Manitowoc County WI,55071,NA
 Marathon County WI,55073,NA
 Marinette County WI,55075,NA
 Marquette County WI,55077,NA
 Menominee County WI,55078,NA
 Milwaukee County WI,55079,NA
-Monroe County WI,55081,10
-Oconto County WI,55083,4
+Monroe County WI,55081,9
+Oconto County WI,55083,0
 Oneida County WI,55085,NA
 Outagamie County WI,55087,NA
 Ozaukee County WI,55089,NA
 Pepin County WI,55091,NA
-Pierce County WI,55093,20
+Pierce County WI,55093,17
 Polk County WI,55095,NA
 Portage County WI,55097,NA
 Price County WI,55099,NA
-Racine County WI,55101,29
+Racine County WI,55101,30
 Richland County WI,55103,NA
 Rock County WI,55105,NA
 Rusk County WI,55107,NA
-St. Croix County WI,55109,6
+St. Croix County WI,55109,5
 Sauk County WI,55111,NA
 Sawyer County WI,55113,0
 Shawano County WI,55115,0
-Sheboygan County WI,55117,24
+Sheboygan County WI,55117,NA
 Taylor County WI,55119,NA
-Trempealeau County WI,55121,11
-Vernon County WI,55123,29
+Trempealeau County WI,55121,10
+Vernon County WI,55123,24
 Vilas County WI,55125,NA
 Walworth County WI,55127,NA
 Washburn County WI,55129,NA
 Washington County WI,55131,NA
 Waukesha County WI,55133,NA
 Waupaca County WI,55135,NA
-Waushara County WI,55137,16
+Waushara County WI,55137,20
 Winnebago County WI,55139,NA
 Wood County WI,55141,NA
-Albany County WY,56001,30
+Albany County WY,56001,29
 Big Horn County WY,56003,NA
 Campbell County WY,56005,NA
 Carbon County WY,56007,NA
