@@ -23,18 +23,29 @@ The most recent projection files and estimates of R are also found in LatestProj
 ## Scenarios
 We generate projections based on a number of hypothetical scenarios describing changes in disease transmission rates due to individual behavior and government policies.
 
+### October 1 - Present: Fall and Winter
 
-### June 14 - Present: Continued transmission
+- nochange - Assumes that current contact rates will remain unchanged in the future.
+
+- 5_1xhold - This scenario assumes a one-time 5% increase in contact rates at the start of the projection.  The following week, the reproduction number R is set to 1 for the remainder of the projection. 
+
+- 5_2xhold - This scenario assumes a weekly 5% increase in contact rates for two weeks.  The following week, the reproduction number R is set to 1 for the remainder of the projection. 
+
+- season4 (starting 2020-10-18) - This scenario assumes seasonal changes to R(t).  In the summer months, it assumed a seasonal decrease in disease transmission leading to a weekly 4% decrease in reproductive number R(t).  In the winter, it assumes a weekly 2% increase in reproductive number R(t).
+
+- reduce10  - We project a weekly 10% decrease in contact rates.
+
+### June 14 - September 29: Continued transmission
 
 We have initiated the following scenarios:
 
 - nochange - Assumes that current contact rates will remain unchanged in the future.
 
-- 5_1x (Discontinued 2020-07-18) -  We project a one-time 5% increase in contact rates due to loosening restrictions as states continue to reopen economically, applied at the beginning of the projection.
+- 5_1x (2020-06-14 through 2020-07-17; 2020-08-23 through 2020-09-27) -  We project a one-time 5% increase in contact rates due to loosening restrictions as states continue to reopen economically, applied at the beginning of the projection.
 
 - 5_2xhold - This scenario assumes a weekly 5% increase in contact rates for two weeks.  The following week, the reproduction number R is set to 1 for the remainder of the projection. 
 
-- season4 - This scenario assumes that current levels of social mixing will remain unchanged in the future.  In addition, it assumes a seasonal decrease in disease transmission leading to a weekly 4% decrease in reproductive number R(t).
+- season4 (2020-06-14 through 2020-08-30) - This scenario assumes seasonal changes to R(t).  In the summer months, it assumed a seasonal decrease in disease transmission leading to a weekly 4% decrease in reproductive number R(t).
 
 - reduce10 (starting 2020-07-18) - We project a weekly 10% decrease in contact rates.
 
