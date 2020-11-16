@@ -27,9 +27,13 @@ We generate projections based on a number of hypothetical scenarios describing c
 
 - nochange - Assumes that current contact rates will remain unchanged in the future.
 
-- 5_1xhold - This scenario assumes a one-time 5% increase in contact rates at the start of the projection.  The following week, the reproduction number R is set to 1 for the remainder of the projection. 
+- 5_1beta (starting 2020-11-12) - This scenario assumes a one-time 5% increase in contact rates at the start of the projection.  The following week, the effective reproduction number R is set to 1.  As the simulation progresses, R_eff decreases as the fraction of susceptible individuals in the population decreases.
 
-- 5_2xhold - This scenario assumes a weekly 5% increase in contact rates for two weeks.  The following week, the reproduction number R is set to 1 for the remainder of the projection. 
+- 5_2xbeta (starting 2020-11-12) - This scenario assumes a weekly 5% increase in contact rates for two weeks.  The following week, the effective reproduction number R is set to 1.  As the simulation progresses, R_eff decreases as the fraction of susceptible individuals in the population decreases.
+
+- 5_1xhold (discontinued 2020-11-11) - This scenario assumes a one-time 5% increase in contact rates at the start of the projection.  The following week, the reproduction number R is set to 1 for the remainder of the projection. 
+
+- 5_2xhold (discontinued 2020-11-11) - This scenario assumes a weekly 5% increase in contact rates for two weeks.  The following week, the reproduction number R is set to 1 for the remainder of the projection. 
 
 - season4 (starting 2020-10-18) - This scenario assumes seasonal changes to R(t).  In the summer months, it assumed a seasonal decrease in disease transmission leading to a weekly 4% decrease in reproductive number R(t).  In the winter, it assumes a weekly 2% increase in reproductive number R(t).
 
