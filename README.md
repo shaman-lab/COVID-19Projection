@@ -27,7 +27,7 @@ We generate projections based on a number of hypothetical scenarios describing c
 
 - nochange - Assumes that current contact rates will remain unchanged in the future.
 
-- 5_1beta (starting 2020-11-12) - This scenario assumes a one-time 5% increase in contact rates at the start of the projection.  The following week, the effective reproduction number R is set to 1.  As the simulation progresses, R_eff decreases as the fraction of susceptible individuals in the population decreases.
+- 5_1xbeta (starting 2020-11-12) - This scenario assumes a one-time 5% increase in contact rates at the start of the projection.  The following week, the effective reproduction number R is set to 1.  As the simulation progresses, R_eff decreases as the fraction of susceptible individuals in the population decreases.
 
 - 5_2xbeta (starting 2020-11-12) - This scenario assumes a weekly 5% increase in contact rates for two weeks.  The following week, the effective reproduction number R is set to 1.  As the simulation progresses, R_eff decreases as the fraction of susceptible individuals in the population decreases.
 
