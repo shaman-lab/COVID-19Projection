@@ -474,7 +474,7 @@ Lamar County GA,13171,NA
 Lanier County GA,13173,NA
 Laurens County GA,13175,NA
 Lee County GA,13177,NA
-Liberty County GA,13179,3
+Liberty County GA,13179,6
 Lincoln County GA,13181,NA
 Long County GA,13183,NA
 Lowndes County GA,13185,NA
@@ -575,7 +575,7 @@ Fremont County ID,16043,NA
 Gem County ID,16045,NA
 Gooding County ID,16047,NA
 Idaho County ID,16049,NA
-Jefferson County ID,16051,NA
+Jefferson County ID,16051,23
 Jerome County ID,16053,NA
 Kootenai County ID,16055,NA
 Latah County ID,16057,NA
@@ -1048,7 +1048,7 @@ Hickman County KY,21105,NA
 Hopkins County KY,21107,NA
 Jackson County KY,21109,NA
 Jefferson County KY,21111,NA
-Jessamine County KY,21113,3
+Jessamine County KY,21113,0
 Johnson County KY,21115,NA
 Kenton County KY,21117,NA
 Knott County KY,21119,NA
@@ -1063,7 +1063,7 @@ Lewis County KY,21135,NA
 Lincoln County KY,21137,NA
 Livingston County KY,21139,NA
 Logan County KY,21141,NA
-Lyon County KY,21143,24
+Lyon County KY,21143,NA
 McCracken County KY,21145,NA
 McCreary County KY,21147,NA
 McLean County KY,21149,NA
@@ -1245,10 +1245,10 @@ Branch County MI,26023,NA
 Calhoun County MI,26025,NA
 Cass County MI,26027,NA
 Charlevoix County MI,26029,NA
-Cheboygan County MI,26031,19
+Cheboygan County MI,26031,16
 Chippewa County MI,26033,NA
 Clare County MI,26035,NA
-Clinton County MI,26037,36
+Clinton County MI,26037,40
 Crawford County MI,26039,NA
 Delta County MI,26041,NA
 Dickinson County MI,26043,NA
@@ -1286,7 +1286,7 @@ Mason County MI,26105,NA
 Mecosta County MI,26107,NA
 Menominee County MI,26109,NA
 Midland County MI,26111,NA
-Missaukee County MI,26113,28
+Missaukee County MI,26113,NA
 Monroe County MI,26115,NA
 Montcalm County MI,26117,NA
 Montmorency County MI,26119,NA
@@ -1301,11 +1301,11 @@ Oscoda County MI,26135,NA
 Otsego County MI,26137,NA
 Ottawa County MI,26139,NA
 Presque Isle County MI,26141,NA
-Roscommon County MI,26143,29
+Roscommon County MI,26143,24
 Saginaw County MI,26145,NA
 St. Clair County MI,26147,NA
 St. Joseph County MI,26149,NA
-Sanilac County MI,26151,8
+Sanilac County MI,26151,3
 Schoolcraft County MI,26153,NA
 Shiawassee County MI,26155,NA
 Tuscola County MI,26157,NA
@@ -1383,7 +1383,7 @@ Rock County MN,27133,NA
 Roseau County MN,27135,NA
 St. Louis County MN,27137,NA
 Scott County MN,27139,NA
-Sherburne County MN,27141,8
+Sherburne County MN,27141,0
 Sibley County MN,27143,NA
 Stearns County MN,27145,NA
 Steele County MN,27147,NA
@@ -1880,7 +1880,7 @@ Seneca County NY,36099,NA
 Steuben County NY,36101,NA
 Suffolk County NY,36103,NA
 Sullivan County NY,36105,NA
-Tioga County NY,36107,17
+Tioga County NY,36107,27
 Tompkins County NY,36109,NA
 Ulster County NY,36111,NA
 Warren County NY,36113,NA
@@ -2046,7 +2046,7 @@ Adams County OH,39001,NA
 Allen County OH,39003,NA
 Ashland County OH,39005,NA
 Ashtabula County OH,39007,NA
-Athens County OH,39009,3
+Athens County OH,39009,NA
 Auglaize County OH,39011,NA
 Belmont County OH,39013,NA
 Brown County OH,39015,NA
@@ -2294,7 +2294,7 @@ Northampton County PA,42095,NA
 Northumberland County PA,42097,NA
 Perry County PA,42099,NA
 Philadelphia County PA,42101,NA
-Pike County PA,42103,4
+Pike County PA,42103,2
 Potter County PA,42105,NA
 Schuylkill County PA,42107,NA
 Snyder County PA,42109,NA
@@ -2310,7 +2310,7 @@ Wayne County PA,42127,NA
 Westmoreland County PA,42129,NA
 Wyoming County PA,42131,NA
 York County PA,42133,NA
-Bristol County RI,44001,24
+Bristol County RI,44001,18
 Kent County RI,44003,NA
 Newport County RI,44005,NA
 Providence County RI,44007,NA
@@ -2488,7 +2488,7 @@ Marion County TN,47115,NA
 Marshall County TN,47117,NA
 Maury County TN,47119,NA
 Meigs County TN,47121,NA
-Monroe County TN,47123,3
+Monroe County TN,47123,NA
 Montgomery County TN,47125,NA
 Moore County TN,47127,NA
 Morgan County TN,47129,NA
@@ -2712,7 +2712,7 @@ Polk County TX,48373,NA
 Potter County TX,48375,NA
 Presidio County TX,48377,NA
 Rains County TX,48379,NA
-Randall County TX,48381,0
+Randall County TX,48381,18
 Reagan County TX,48383,NA
 Real County TX,48385,NA
 Red River County TX,48387,NA
@@ -2758,7 +2758,7 @@ Val Verde County TX,48465,NA
 Van Zandt County TX,48467,NA
 Victoria County TX,48469,NA
 Walker County TX,48471,NA
-Waller County TX,48473,21
+Waller County TX,48473,17
 Ward County TX,48475,NA
 Washington County TX,48477,NA
 Webb County TX,48479,NA
@@ -2766,7 +2766,7 @@ Wharton County TX,48481,NA
 Wheeler County TX,48483,NA
 Wichita County TX,48485,NA
 Wilbarger County TX,48487,NA
-Willacy County TX,48489,NA
+Willacy County TX,48489,0
 Williamson County TX,48491,NA
 Wilson County TX,48493,NA
 Winkler County TX,48495,NA
@@ -2852,7 +2852,7 @@ Fauquier County VA,51061,NA
 Floyd County VA,51063,NA
 Fluvanna County VA,51065,NA
 Franklin County VA,51067,NA
-Frederick County VA,51069,6
+Frederick County VA,51069,20
 Giles County VA,51071,NA
 Gloucester County VA,51073,NA
 Goochland County VA,51075,NA
@@ -2887,7 +2887,7 @@ Nottoway County VA,51135,NA
 Orange County VA,51137,NA
 Page County VA,51139,NA
 Patrick County VA,51141,NA
-Pittsylvania County VA,51143,37
+Pittsylvania County VA,51143,18
 Powhatan County VA,51145,NA
 Prince Edward County VA,51147,NA
 Prince George County VA,51149,NA
