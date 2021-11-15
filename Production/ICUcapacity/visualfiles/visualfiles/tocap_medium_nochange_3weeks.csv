@@ -83,9 +83,9 @@ Fips_code,Days Until HealthCare Overwhelmed
 02158,NA
 02164,NA
 02170,NA
-02180,8
+02180,9
 02185,NA
-02188,1
+02188,5
 02195,NA
 02198,NA
 02220,NA
@@ -152,7 +152,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 05079,NA
 05081,NA
 05083,NA
-05085,3
+05085,4
 05087,NA
 05089,NA
 05091,NA
@@ -288,7 +288,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 08083,NA
 08085,NA
 08087,NA
-08089,5
+08089,1
 08091,NA
 08093,NA
 08095,NA
@@ -378,7 +378,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 12113,NA
 12115,NA
 12117,NA
-12119,1
+12119,NA
 12121,NA
 12123,NA
 12125,NA
@@ -408,7 +408,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 13039,NA
 13043,NA
 13045,NA
-13047,1
+13047,6
 13049,NA
 13051,NA
 13053,1
@@ -474,7 +474,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 13173,NA
 13175,NA
 13177,NA
-13179,1
+13179,NA
 13181,NA
 13183,NA
 13185,NA
@@ -531,7 +531,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 13289,NA
 13291,NA
 13293,NA
-13295,13
+13295,2
 13297,NA
 13299,NA
 13301,NA
@@ -575,7 +575,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 16045,NA
 16047,NA
 16049,NA
-16051,4
+16051,1
 16053,NA
 16055,NA
 16057,NA
@@ -597,7 +597,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 17001,NA
 17003,NA
 17005,NA
-17007,NA
+17007,1
 17009,NA
 17011,NA
 17013,NA
@@ -636,7 +636,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 17079,NA
 17081,NA
 17083,NA
-17085,NA
+17085,19
 17087,NA
 17089,NA
 17091,NA
@@ -707,7 +707,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 18017,NA
 18019,NA
 18021,NA
-18023,1
+18023,6
 18025,NA
 18027,NA
 18029,NA
@@ -992,7 +992,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 20205,NA
 20207,NA
 20209,NA
-21001,1
+21001,NA
 21003,NA
 21005,1
 21007,NA
@@ -1032,11 +1032,11 @@ Fips_code,Days Until HealthCare Overwhelmed
 21075,NA
 21077,NA
 21079,NA
-21081,8
+21081,1
 21083,NA
 21085,NA
 21087,NA
-21089,1
+21089,6
 21091,NA
 21093,NA
 21095,NA
@@ -1048,7 +1048,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 21107,NA
 21109,NA
 21111,NA
-21113,1
+21113,15
 21115,NA
 21117,NA
 21119,NA
@@ -1187,7 +1187,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 23017,NA
 23019,NA
 23021,NA
-23023,18
+23023,NA
 23025,NA
 23027,NA
 23029,NA
@@ -1234,7 +1234,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 26003,NA
 26005,NA
 26007,NA
-26009,1
+26009,8
 26011,NA
 26013,NA
 26015,NA
@@ -1245,7 +1245,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 26025,NA
 26027,NA
 26029,NA
-26031,1
+26031,4
 26033,NA
 26035,NA
 26037,NA
@@ -1274,7 +1274,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 26083,NA
 26085,NA
 26087,NA
-26089,NA
+26089,21
 26091,NA
 26093,NA
 26095,NA
@@ -1332,7 +1332,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 27033,NA
 27035,NA
 27037,NA
-27039,13
+27039,8
 27041,NA
 27043,NA
 27045,1
@@ -1352,7 +1352,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 27073,NA
 27075,NA
 27077,NA
-27079,4
+27079,3
 27081,NA
 27083,NA
 27085,NA
@@ -1495,7 +1495,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 29021,NA
 29023,NA
 29025,NA
-29027,19
+29027,14
 29029,NA
 29031,NA
 29033,NA
@@ -1503,7 +1503,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 29037,NA
 29039,NA
 29041,NA
-29043,18
+29043,9
 29045,NA
 29047,NA
 29049,NA
@@ -1665,7 +1665,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 31019,NA
 31021,NA
 31023,NA
-31025,19
+31025,12
 31027,NA
 31029,NA
 31031,NA
@@ -1730,7 +1730,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 31149,NA
 31151,NA
 31153,NA
-31155,NA
+31155,8
 31157,NA
 31159,NA
 31161,NA
@@ -1755,7 +1755,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 32013,NA
 32015,NA
 32017,NA
-32019,11
+32019,6
 32021,NA
 32023,NA
 32027,NA
@@ -1842,11 +1842,11 @@ Fips_code,Days Until HealthCare Overwhelmed
 36025,NA
 36027,NA
 36029,NA
-36031,4
+36031,1
 36033,NA
 36035,NA
 36037,NA
-36039,1
+36039,NA
 36041,NA
 36043,1
 36045,NA
@@ -1987,7 +1987,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 37191,NA
 37193,NA
 37195,NA
-37197,1
+37197,NA
 37199,NA
 38001,NA
 38003,NA
@@ -2042,7 +2042,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 38101,NA
 38103,NA
 38105,1
-39001,1
+39001,NA
 39003,NA
 39005,NA
 39007,NA
@@ -2051,7 +2051,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 39013,NA
 39015,1
 39017,NA
-39019,1
+39019,NA
 39021,1
 39023,NA
 39025,NA
@@ -2094,7 +2094,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 39099,NA
 39101,NA
 39103,NA
-39105,3
+39105,NA
 39107,NA
 39109,NA
 39111,NA
@@ -2104,13 +2104,13 @@ Fips_code,Days Until HealthCare Overwhelmed
 39119,NA
 39121,NA
 39123,NA
-39125,1
+39125,NA
 39127,NA
 39129,NA
 39131,NA
 39133,NA
-39135,1
-39137,1
+39135,2
+39137,8
 39139,NA
 39141,NA
 39143,NA
@@ -2211,7 +2211,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 41003,NA
 41005,NA
 41007,NA
-41009,8
+41009,1
 41011,NA
 41013,NA
 41015,NA
@@ -2297,7 +2297,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 42103,1
 42105,NA
 42107,NA
-42109,1
+42109,3
 42111,NA
 42113,NA
 42115,NA
@@ -2310,7 +2310,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 42129,NA
 42131,NA
 42133,NA
-44001,8
+44001,17
 44003,NA
 44005,NA
 44007,NA
@@ -2472,7 +2472,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 47085,NA
 47087,NA
 47089,NA
-47091,20
+47091,NA
 47093,NA
 47095,NA
 47097,NA
@@ -2488,7 +2488,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 47117,NA
 47119,NA
 47121,NA
-47123,1
+47123,NA
 47125,NA
 47127,NA
 47129,NA
@@ -2502,7 +2502,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 47145,NA
 47147,NA
 47149,NA
-47151,2
+47151,1
 47153,NA
 47155,NA
 47157,NA
@@ -2835,8 +2835,8 @@ Fips_code,Days Until HealthCare Overwhelmed
 51027,NA
 51029,NA
 51031,1
-51033,8
-51035,1
+51033,NA
+51035,9
 51036,NA
 51037,NA
 51041,NA
@@ -2845,7 +2845,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 51047,NA
 51049,NA
 51051,NA
-51053,NA
+51053,13
 51057,NA
 51059,NA
 51061,NA
@@ -2872,7 +2872,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 51103,NA
 51105,NA
 51107,NA
-51109,1
+51109,NA
 51111,NA
 51113,NA
 51115,NA
@@ -2890,7 +2890,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 51143,1
 51145,NA
 51147,NA
-51149,NA
+51149,15
 51153,NA
 51155,NA
 51157,NA
@@ -2899,7 +2899,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 51163,NA
 51165,1
 51167,NA
-51169,1
+51169,NA
 51171,NA
 51173,NA
 51175,NA
@@ -2923,8 +2923,8 @@ Fips_code,Days Until HealthCare Overwhelmed
 51580,NA
 51590,NA
 51595,NA
-51600,15
-51610,21
+51600,8
+51610,NA
 51620,NA
 51630,NA
 51640,NA
@@ -2949,7 +2949,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 51790,NA
 51800,NA
 51810,NA
-51820,1
+51820,NA
 51830,NA
 51840,NA
 53001,NA
@@ -2960,7 +2960,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 53011,NA
 53013,NA
 53015,NA
-53017,1
+53017,2
 53019,NA
 53021,1
 53023,NA
@@ -2993,7 +2993,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 53077,NA
 54001,NA
 54003,NA
-54005,16
+54005,1
 54007,NA
 54009,NA
 54011,NA
@@ -3012,14 +3012,14 @@ Fips_code,Days Until HealthCare Overwhelmed
 54037,NA
 54039,NA
 54041,NA
-54043,12
+54043,1
 54045,NA
 54047,NA
 54049,NA
 54051,NA
 54053,NA
 54055,NA
-54057,1
+54057,12
 54059,NA
 54061,NA
 54063,NA
@@ -3040,12 +3040,12 @@ Fips_code,Days Until HealthCare Overwhelmed
 54093,NA
 54095,NA
 54097,NA
-54099,1
+54099,NA
 54101,NA
 54103,NA
 54105,NA
 54107,NA
-54109,NA
+54109,2
 55001,NA
 55003,NA
 55005,NA
@@ -3076,7 +3076,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 55055,NA
 55057,NA
 55059,NA
-55061,1
+55061,11
 55063,NA
 55065,NA
 55067,NA
@@ -3084,7 +3084,7 @@ Fips_code,Days Until HealthCare Overwhelmed
 55071,NA
 55073,NA
 55075,NA
-55077,1
+55077,NA
 55078,NA
 55079,NA
 55081,NA

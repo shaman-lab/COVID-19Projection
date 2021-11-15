@@ -1,0 +1,16 @@
+mydate=datestr(date,'yyyy-mm-dd');
+folder='~/OneDrive - cumc.columbia.edu/chop/data/phillyopendata/';
+
+url="https://phl.carto.com/api/v2/sql?q=SELECT * FROM covid_cases_by_zip"
+s=webread(url);
+ziptable=struct2table(s.rows)
+zippos=ziptable(strcmp(ziptable.covid_status,'POS'),:);
+writetable(zippos,[folder,mydate,'-covid_cases_by_zip.csv']);
+
+
+url="https://phl.carto.com/api/v2/sql?q=SELECT * FROM covid_cases_by_date"
+s=webread(url);
+datetable=struct2table(s.rows);
+datepos= datetable(strcmp(datetable.test_result,'positive'),:);
+datepos=sortrows(datepos,"collection_date");
+writetable(datepos,[folder,mydate,'-covid_cases_by_date.csv']);
