@@ -23,7 +23,18 @@ The most recent projection files and estimates of R are also found in LatestProj
 ## Scenarios
 We generate projections based on a number of hypothetical scenarios describing changes in disease transmission rates due to individual behavior and government policies.
 
-### October 1 - Present: Fall and Winter
+### Current Scenarios: Beginning December 19, 2021
+
+All three scenarios assume a rate of immunity loss 1/L.  L is estimated by the model-inference system, and its upper and lower bounds are set to 6 years and 0.5 years, respectively. 
+
+- nochange_Lmin0p5 - Assumes that current contact rates will remain unchanged in the future.
+
+- 5_1xbeta_Lmin0p5 - This scenario assumes a one-time 5% increase in contact rates at the start of the projection.  The following week, the effective reproduction number R is set to 1.  As the simulation progresses, R_eff decreases as the fraction of susceptible individuals in the population decreases.
+
+- bump5_Lmin0p5 (previously named 5_1x) -  We project a one-time 5% increase in contact rates due to loosening restrictions as states continue to reopen economically, applied at the beginning of the projection.
+
+
+### October 1 2020: Fall and Winter
 
 - nochange - Assumes that current contact rates will remain unchanged in the future.
 
