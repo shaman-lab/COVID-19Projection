@@ -1,20 +1,20 @@
 ds_uid : Unique-ID of driveshed/cluster (n=92).
 population : Total population in driveshed/cluster based on https://usafactsstatic.blob.core.windows.net/public/data/covid-19/covid_county_population_usafacts.csv
 report : Cumulative count of confirmed cases over the next three weeks for each cluster of counties.
-total : Cumulative count of confirmed cases per 100,000 residents over the next three weeks for each cluster of counties.
-report_per_100K : Cumulative count of infected cases over the next three weeks for each cluster of counties.
+total : Cumulative count of infected cases over the next three weeks for each cluster of counties.
+report_per_100K : Cumulative count of confirmed cases per 100,000 residents over the next three weeks for each cluster of counties.
 total_per_100K : Cumulative count of infected cases per 100,000 residents over the next three weeks for each cluster of counties.
 weightedR : Population weighted average of driveshed/cluster. Formula (based on 3 counties) = (R1*pop1+R2*pop2+R3*pop3)/(pop1+pop2+pop3)
 
 report_1 : Cumulative count of confirmed cases during first week for each cluster of counties.
 report_2 : Cumulative count of confirmed cases during second week for each cluster of counties.
 report_3 : Cumulative count of confirmed cases during third week for each cluster of counties.
-total_1 : Cumulative count of confirmed cases per 100,000 residents during first week for each cluster of counties.
-total_2 : Cumulative count of confirmed cases per 100,000 residents during second week for each cluster of counties.
-total_3 : Cumulative count of confirmed cases per 100,000 residents during third week for each cluster of counties.
-report_per_100K_1 : Cumulative count of infected cases during first week for each cluster of counties.
-report_per_100K_2 : Cumulative count of infected cases during second week for each cluster of counties.
-report_per_100K_3 : Cumulative count of infected cases during third week for each cluster of counties.
+total_1 : Cumulative count of infected cases during first week for each cluster of counties.
+total_2 : Cumulative count of infected cases during second week for each cluster of counties.
+total_3 : Cumulative count of infected cases during third week for each cluster of counties.
+report_per_100K_1 : Cumulative count of confirmed cases per 100,000 residents during first week for each cluster of counties.
+report_per_100K_2 : Cumulative count of confirmed cases per 100,000 residents during second week for each cluster of counties.
+report_per_100K_3 : Cumulative count of confirmed cases per 100,000 residents during third week for each cluster of counties.
 total_per_100K_1 : Cumulative count of infected cases per 100,000 residents during first week for each cluster of counties.
 total_per_100K_2 : Cumulative count of infected cases per 100,000 residents during second week for each cluster of counties.
 total_per_100K_3 : Cumulative count of infected cases per 100,000 residents during third week for each cluster of counties.
