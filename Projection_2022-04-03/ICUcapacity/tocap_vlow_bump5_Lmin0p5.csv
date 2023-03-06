@@ -95,7 +95,7 @@ Valdez-Cordova Census Area AK,02261,NA
 Wrangell City and Borough AK,02275,NA
 Yakutat City and Borough AK,02282,NA
 Yukon-Koyukuk Census Area AK,02290,NA
-Apache County AZ,04001,5
+Apache County AZ,04001,NA
 Cochise County AZ,04003,NA
 Coconino County AZ,04005,NA
 Gila County AZ,04007,NA
@@ -127,7 +127,7 @@ Columbia County AR,05027,NA
 Conway County AR,05029,NA
 Craighead County AR,05031,NA
 Crawford County AR,05033,NA
-Crittenden County AR,05035,5
+Crittenden County AR,05035,10
 Cross County AR,05037,NA
 Dallas County AR,05039,NA
 Desha County AR,05041,NA
@@ -155,7 +155,7 @@ Logan County AR,05083,NA
 Lonoke County AR,05085,4
 Madison County AR,05087,NA
 Marion County AR,05089,NA
-Miller County AR,05091,29
+Miller County AR,05091,25
 Mississippi County AR,05093,NA
 Monroe County AR,05095,NA
 Montgomery County AR,05097,NA
@@ -408,7 +408,7 @@ Calhoun County GA,13037,NA
 Camden County GA,13039,NA
 Candler County GA,13043,NA
 Carroll County GA,13045,NA
-Catoosa County GA,13047,36
+Catoosa County GA,13047,24
 Charlton County GA,13049,NA
 Chatham County GA,13051,NA
 Chattahoochee County GA,13053,7
@@ -436,7 +436,7 @@ Dougherty County GA,13095,NA
 Douglas County GA,13097,NA
 Early County GA,13099,NA
 Echols County GA,13101,NA
-Effingham County GA,13103,NA
+Effingham County GA,13103,12
 Elbert County GA,13105,NA
 Emanuel County GA,13107,NA
 Evans County GA,13109,NA
@@ -554,7 +554,7 @@ Ada County ID,16001,NA
 Adams County ID,16003,NA
 Bannock County ID,16005,NA
 Bear Lake County ID,16007,NA
-Benewah County ID,16009,9
+Benewah County ID,16009,6
 Bingham County ID,16011,NA
 Blaine County ID,16013,0
 Boise County ID,16015,NA
@@ -640,7 +640,7 @@ Jo Daviess County IL,17085,NA
 Johnson County IL,17087,NA
 Kane County IL,17089,NA
 Kankakee County IL,17091,NA
-Kendall County IL,17093,6
+Kendall County IL,17093,26
 Knox County IL,17095,NA
 Lake County IL,17097,NA
 LaSalle County IL,17099,NA
@@ -1006,7 +1006,7 @@ Boyle County KY,21021,NA
 Bracken County KY,21023,NA
 Breathitt County KY,21025,NA
 Breckinridge County KY,21027,NA
-Bullitt County KY,21029,27
+Bullitt County KY,21029,23
 Butler County KY,21031,NA
 Caldwell County KY,21033,NA
 Calloway County KY,21035,NA
@@ -1014,7 +1014,7 @@ Campbell County KY,21037,NA
 Carlisle County KY,21039,NA
 Carroll County KY,21041,NA
 Carter County KY,21043,NA
-Casey County KY,21045,10
+Casey County KY,21045,NA
 Christian County KY,21047,NA
 Clark County KY,21049,NA
 Clay County KY,21051,NA
@@ -1839,16 +1839,16 @@ Chenango County NY,36017,NA
 Clinton County NY,36019,NA
 Columbia County NY,36021,NA
 Cortland County NY,36023,NA
-Delaware County NY,36025,42
+Delaware County NY,36025,29
 Dutchess County NY,36027,NA
 Erie County NY,36029,NA
 Essex County NY,36031,NA
 Franklin County NY,36033,NA
 Fulton County NY,36035,NA
 Genesee County NY,36037,NA
-Greene County NY,36039,NA
+Greene County NY,36039,24
 Hamilton County NY,36041,NA
-Herkimer County NY,36043,29
+Herkimer County NY,36043,34
 Jefferson County NY,36045,NA
 Kings County NY,36047,NA
 Lewis County NY,36049,NA
@@ -1864,7 +1864,7 @@ Onondaga County NY,36067,NA
 Ontario County NY,36069,NA
 Orange County NY,36071,NA
 Orleans County NY,36073,NA
-Oswego County NY,36075,NA
+Oswego County NY,36075,36
 Otsego County NY,36077,NA
 Putnam County NY,36079,NA
 Queens County NY,36081,NA
@@ -1876,11 +1876,11 @@ Saratoga County NY,36091,NA
 Schenectady County NY,36093,NA
 Schoharie County NY,36095,NA
 Schuyler County NY,36097,NA
-Seneca County NY,36099,NA
+Seneca County NY,36099,35
 Steuben County NY,36101,NA
 Suffolk County NY,36103,NA
 Sullivan County NY,36105,NA
-Tioga County NY,36107,NA
+Tioga County NY,36107,37
 Tompkins County NY,36109,NA
 Ulster County NY,36111,NA
 Warren County NY,36113,NA
@@ -2310,7 +2310,7 @@ Wayne County PA,42127,NA
 Westmoreland County PA,42129,NA
 Wyoming County PA,42131,NA
 York County PA,42133,NA
-Bristol County RI,44001,NA
+Bristol County RI,44001,33
 Kent County RI,44003,NA
 Newport County RI,44005,NA
 Providence County RI,44007,NA
@@ -2568,10 +2568,10 @@ Collin County TX,48085,NA
 Collingsworth County TX,48087,NA
 Colorado County TX,48089,NA
 Comal County TX,48091,NA
-Comanche County TX,48093,13
+Comanche County TX,48093,11
 Concho County TX,48095,NA
 Cooke County TX,48097,NA
-Coryell County TX,48099,NA
+Coryell County TX,48099,38
 Cottle County TX,48101,NA
 Crane County TX,48103,NA
 Crockett County TX,48105,NA
@@ -2604,7 +2604,7 @@ Fort Bend County TX,48157,NA
 Franklin County TX,48159,NA
 Freestone County TX,48161,NA
 Frio County TX,48163,NA
-Gaines County TX,48165,19
+Gaines County TX,48165,11
 Galveston County TX,48167,NA
 Garza County TX,48169,NA
 Gillespie County TX,48171,NA
@@ -2700,7 +2700,7 @@ Navarro County TX,48349,NA
 Newton County TX,48351,NA
 Nolan County TX,48353,NA
 Nueces County TX,48355,NA
-Ochiltree County TX,48357,5
+Ochiltree County TX,48357,6
 Oldham County TX,48359,NA
 Orange County TX,48361,NA
 Palo Pinto County TX,48363,NA
@@ -2726,7 +2726,7 @@ Rusk County TX,48401,NA
 Sabine County TX,48403,NA
 San Augustine County TX,48405,NA
 San Jacinto County TX,48407,NA
-San Patricio County TX,48409,NA
+San Patricio County TX,48409,41
 San Saba County TX,48411,NA
 Schleicher County TX,48413,NA
 Scurry County TX,48415,NA
@@ -2772,7 +2772,7 @@ Wilson County TX,48493,NA
 Winkler County TX,48495,NA
 Wise County TX,48497,NA
 Wood County TX,48499,NA
-Yoakum County TX,48501,35
+Yoakum County TX,48501,31
 Young County TX,48503,NA
 Zapata County TX,48505,NA
 Zavala County TX,48507,NA
@@ -2820,7 +2820,7 @@ Washington County VT,50023,NA
 Windham County VT,50025,NA
 Windsor County VT,50027,NA
 Accomack County VA,51001,NA
-Albemarle County VA,51003,NA
+Albemarle County VA,51003,37
 Alleghany County VA,51005,NA
 Amelia County VA,51007,NA
 Amherst County VA,51009,NA
@@ -2852,7 +2852,7 @@ Fauquier County VA,51061,NA
 Floyd County VA,51063,NA
 Fluvanna County VA,51065,NA
 Franklin County VA,51067,NA
-Frederick County VA,51069,NA
+Frederick County VA,51069,16
 Giles County VA,51071,NA
 Gloucester County VA,51073,NA
 Goochland County VA,51075,NA
@@ -2890,7 +2890,7 @@ Patrick County VA,51141,NA
 Pittsylvania County VA,51143,0
 Powhatan County VA,51145,NA
 Prince Edward County VA,51147,NA
-Prince George County VA,51149,22
+Prince George County VA,51149,23
 Prince William County VA,51153,NA
 Pulaski County VA,51155,NA
 Rappahannock County VA,51157,NA
