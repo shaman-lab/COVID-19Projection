@@ -103,7 +103,11 @@ Several qualifications with respect to these projections must be noted and consi
 
 Secondly, the landscape to which this model has been optimized is highly variable in space and time, due to differences in contact behavior, population density, control measures and testing practices. These differences in space and time make the fitting of any model of this scale challenging. In this shifting landscape, it is very important to reiterate that it will take 10-14 days before the effects of real-world interventions—any flattening of the curve weeks—become apparent.
 
-# Citation
+## References
 
-Please cite: Sen Pei, Jeffrey Shaman, Initial Simulation of SARS-CoV2 Spread and Intervention Effects in the Continental US. medRxiv.doi: https://doi.org/10.1101/2020.03.21.20040303
+For detailed methods, see: 
+
+Sen Pei, Jeffrey Shaman, Initial Simulation of SARS-CoV2 Spread and Intervention Effects in the Continental US. medRxiv. https://doi.org/10.1101/2020.03.21.20040303
+
+Pei, S., Yamana, T.K., Kandula, S. et al. Burden and characteristics of COVID-19 in the United States during 2020. Nature 598, 338–341 (2021). https://doi.org/10.1038/s41586-021-03914-4
 
